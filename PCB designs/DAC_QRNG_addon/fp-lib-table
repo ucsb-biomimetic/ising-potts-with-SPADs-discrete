@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DAC_QRNG_addon_footprints")(type "KiCad")(uri "${KIPRJMOD}/DAC_QRNG_addon_footprints.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,235 @@
+09-28 11:42:46 replicate_layout.action_replicate_layout 311:Plugin executed on: 'linux'
+09-28 11:42:46 replicate_layout.action_replicate_layout 312:Plugin executed with python version: '3.9.7 (default, Aug 31 2021, 13:27:55) \n[GCC 10.2.1 20201203]'
+09-28 11:42:46 replicate_layout.action_replicate_layout 313:KiCad build version: 5.1.10
+09-28 11:42:46 replicate_layout.action_replicate_layout 314:Replicate layout plugin version: 73 started
+09-28 11:42:46 replicate_layout.action_replicate_layout 327:All top level windows titles are:
+kicad 5.1.10 /home/zach/college/research/theogarajan/spad_random_number_generator/spad2digital_current/spad2digital/spad2digital.pro
+
+eeschema — resistor_config.sch [/spad sheet/resistor config c4/] — /home/zach/college/research/theogarajan/spad_random_number_generator/spad2digital_current/spad2digital
+
+pcbnew — /home/zach/college/research/theogarajan/spad_random_number_generator/spad2digital_current/spad2digital/spad2digital.kicad_pcb
+
+
+symbol editor — custom_part_library:lt3012
+
+footprint editor — package_so:tssop-16-1ep_4.4x5mm_p0.65mm [read only]
+
+
+09-28 11:42:46 replicate_layout.action_replicate_layout 328:All top level windows objects are:
+ <wx._core.Frame object at 0x7f2e994ebd30>
+<wx._core.Frame object at 0x7f2e994ebca0>
+<wx._core.Frame object at 0x7f2e994ebd30>
+<wx._core.Frame object at 0x7f2e994ebca0>
+<wx._core.Frame object at 0x7f2e994ebd30>
+<wx._core.Frame object at 0x7f2e994ebca0>
+<wx._core.Frame object at 0x7f2e994ebd30>
+<wx._core.Frame object at 0x7f2e994ebca0>
+<wx._core.Frame object at 0x7f2e994ebd30>
+<wx._core.Frame object at 0x7f2e994ebca0>
+<wx._core.Frame object at 0x7f2e994ebd30>
+<wx._core.Frame object at 0x7f2e994ebca0>
+09-28 11:42:46 replicate_layout.action_replicate_layout 351:Preparing replicator with R134 as a reference
+09-28 11:42:46 replicate_layout.replicatelayout 215:getting project hierarchy from schematics
+09-28 11:42:46 replicate_layout.replicatelayout 217:Project hierarchy looks like:
+{'610B2909': ['Channel_A2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '610DCDA1': ['Channel_A3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '610DCF84': ['Channel_A4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '610F9789': ['Channel_B1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '610F996C': ['Channel_B2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '610F9977': ['Channel_B3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '610F9982': ['Channel_B4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B339': ['Channel_C1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B51C': ['Channel_C2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B527': ['Channel_C3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B532': ['Channel_C4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B53D': ['Channel_D1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B548': ['Channel_D2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B553': ['Channel_D3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '6110B55E': ['Channel_D4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch'], '61172A5C': ['Power Circuits', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Power_Circuitry.sch'], '6118170F': ['Bias Circuitry', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Bias_Circuitry.sch'], '610E0883': ['FPGA Connector', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/fpga_connector.sch'], '62C1A9FF': ['SPAD Sheet', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/SPAD_Sheet.sch'], '6158BE43': ['Resistor Config A1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615A3A56': ['Resistor Config A2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615A57B8': ['Resistor Config A3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615A57BD': ['Resistor Config A4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615B50FA': ['Resistor Config B1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615B5103': ['Resistor Config B2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615B5108': ['Resistor Config B3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615B510D': ['Resistor Config B4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615C7F7A': ['Resistor Config C1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615C7F83': ['Resistor Config C2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615C7F88': ['Resistor Config C3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615C7F8D': ['Resistor Config C4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615E8311': ['Resistor Config D1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615E831A': ['Resistor Config D2', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615E831F': ['Resistor Config D3', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '615E8324': ['Resistor Config D4', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/resistor_config.sch'], '6103D777': ['Channel_A1', '/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital_Current/SPAD2Digital/Channel.sch']}
+09-28 11:42:46 replicate_layout.replicatelayout 225:getting a list of all footprints on board
+09-28 11:42:46 replicate_layout.action_replicate_layout 377:source anchor footprint is 'R134'
+Located on:['SPAD Sheet', 'Resistor Config C4']
+With filenames:['SPAD_Sheet.sch', 'resistor_config.sch']
+With sheet_id:['SPAD Sheet', 'Resistor Config C4']
+09-28 11:42:46 replicate_layout.action_replicate_layout 382:Corresponding footprints are 
+[('R146', ['SPAD Sheet', 'Resistor Config D4']), ('R143', ['SPAD Sheet', 'Resistor Config D3']), ('R140', ['SPAD Sheet', 'Resistor Config D2']), ('R137', ['SPAD Sheet', 'Resistor Config D1']), ('R134', ['SPAD Sheet', 'Resistor Config C4']), ('R131', ['SPAD Sheet', 'Resistor Config C3']), ('R128', ['SPAD Sheet', 'Resistor Config C2']), ('R125', ['SPAD Sheet', 'Resistor Config C1']), ('R122', ['SPAD Sheet', 'Resistor Config B4']), ('R119', ['SPAD Sheet', 'Resistor Config B3']), ('R116', ['SPAD Sheet', 'Resistor Config B2']), ('R113', ['SPAD Sheet', 'Resistor Config B1']), ('R110', ['SPAD Sheet', 'Resistor Config A4']), ('R107', ['SPAD Sheet', 'Resistor Config A3']), ('R104', ['SPAD Sheet', 'Resistor Config A2']), ('R101', ['SPAD Sheet', 'Resistor Config A1'])]
+09-28 11:42:46 replicate_layout.action_replicate_layout 395:Showing dialog
+09-28 11:42:46 replicate_layout.action_replicate_layout 399:Pcbnew position: wx.Point(2, 21)
+09-28 11:42:46 replicate_layout.action_replicate_layout 405:Display 0: wx.Rect(0, 0, 1600, 900)
+09-28 11:42:46 replicate_layout.action_replicate_layout 409:Toolbar position: wx.Point(1561, 82)
+09-28 11:42:46 replicate_layout.action_replicate_layout 416:Dialog position: wx.Point(1248, 82)
+09-28 11:42:46 replicate_layout.replicatelayout 249:construcing a list of sheets suitable for replication on level:'SPAD Sheet', file:'SPAD_Sheet.sch'
+09-28 11:42:46 replicate_layout.replicatelayout 256:Source sheet path up to the level:['SPAD Sheet']
+09-28 11:42:46 replicate_layout.replicatelayout 260:Footprints on the sheets:
+['R146', 'R143', 'R140', 'R137', 'R134', 'R131', 'R128', 'R125', 'R122', 'R119', 'R116', 'R113', 'R110', 'R107', 'R104', 'R101']
+09-28 11:42:46 replicate_layout.replicatelayout 263:Footprints raw sheet ids:
+['/62C1A9FF/615E8324/6158C323', '/62C1A9FF/615E831F/6158C323', '/62C1A9FF/615E831A/6158C323', '/62C1A9FF/615E8311/6158C323', '/62C1A9FF/615C7F8D/6158C323', '/62C1A9FF/615C7F88/6158C323', '/62C1A9FF/615C7F83/6158C323', '/62C1A9FF/615C7F7A/6158C323', '/62C1A9FF/615B510D/6158C323', '/62C1A9FF/615B5108/6158C323', '/62C1A9FF/615B5103/6158C323', '/62C1A9FF/615B50FA/6158C323', '/62C1A9FF/615A57BD/6158C323', '/62C1A9FF/615A57B8/6158C323', '/62C1A9FF/615A3A56/6158C323', '/62C1A9FF/6158BE43/6158C323']
+09-28 11:42:46 replicate_layout.replicatelayout 279:All sheets to replicate:
+[['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet'], ['SPAD Sheet']]
+09-28 11:42:46 replicate_layout.replicatelayout 284:All sheets to replicate sorted:
+[['SPAD Sheet']]
+09-28 11:42:46 replicate_layout.replicatelayout 290:All sheets to replicate sorted and without source sheet:
+[]
+09-28 11:42:51 replicate_layout.replicatelayout 249:construcing a list of sheets suitable for replication on level:'Resistor Config C4', file:'resistor_config.sch'
+09-28 11:42:51 replicate_layout.replicatelayout 256:Source sheet path up to the level:['SPAD Sheet', 'Resistor Config C4']
+09-28 11:42:51 replicate_layout.replicatelayout 260:Footprints on the sheets:
+['R146', 'R143', 'R140', 'R137', 'R134', 'R131', 'R128', 'R125', 'R122', 'R119', 'R116', 'R113', 'R110', 'R107', 'R104', 'R101']
+09-28 11:42:51 replicate_layout.replicatelayout 263:Footprints raw sheet ids:
+['/62C1A9FF/615E8324/6158C323', '/62C1A9FF/615E831F/6158C323', '/62C1A9FF/615E831A/6158C323', '/62C1A9FF/615E8311/6158C323', '/62C1A9FF/615C7F8D/6158C323', '/62C1A9FF/615C7F88/6158C323', '/62C1A9FF/615C7F83/6158C323', '/62C1A9FF/615C7F7A/6158C323', '/62C1A9FF/615B510D/6158C323', '/62C1A9FF/615B5108/6158C323', '/62C1A9FF/615B5103/6158C323', '/62C1A9FF/615B50FA/6158C323', '/62C1A9FF/615A57BD/6158C323', '/62C1A9FF/615A57B8/6158C323', '/62C1A9FF/615A3A56/6158C323', '/62C1A9FF/6158BE43/6158C323']
+09-28 11:42:51 replicate_layout.replicatelayout 279:All sheets to replicate:
+[['SPAD Sheet', 'Resistor Config D4'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config C4'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A1']]
+09-28 11:42:51 replicate_layout.replicatelayout 284:All sheets to replicate sorted:
+[['SPAD Sheet', 'Resistor Config A1'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config C4'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D4']]
+09-28 11:42:51 replicate_layout.replicatelayout 290:All sheets to replicate sorted and without source sheet:
+[['SPAD Sheet', 'Resistor Config A1'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D4']]
+09-28 11:43:01 replicate_layout.replicatelayout 249:construcing a list of sheets suitable for replication on level:'Resistor Config C4', file:'resistor_config.sch'
+09-28 11:43:01 replicate_layout.replicatelayout 256:Source sheet path up to the level:['SPAD Sheet', 'Resistor Config C4']
+09-28 11:43:01 replicate_layout.replicatelayout 260:Footprints on the sheets:
+['R146', 'R143', 'R140', 'R137', 'R134', 'R131', 'R128', 'R125', 'R122', 'R119', 'R116', 'R113', 'R110', 'R107', 'R104', 'R101']
+09-28 11:43:01 replicate_layout.replicatelayout 263:Footprints raw sheet ids:
+['/62C1A9FF/615E8324/6158C323', '/62C1A9FF/615E831F/6158C323', '/62C1A9FF/615E831A/6158C323', '/62C1A9FF/615E8311/6158C323', '/62C1A9FF/615C7F8D/6158C323', '/62C1A9FF/615C7F88/6158C323', '/62C1A9FF/615C7F83/6158C323', '/62C1A9FF/615C7F7A/6158C323', '/62C1A9FF/615B510D/6158C323', '/62C1A9FF/615B5108/6158C323', '/62C1A9FF/615B5103/6158C323', '/62C1A9FF/615B50FA/6158C323', '/62C1A9FF/615A57BD/6158C323', '/62C1A9FF/615A57B8/6158C323', '/62C1A9FF/615A3A56/6158C323', '/62C1A9FF/6158BE43/6158C323']
+09-28 11:43:01 replicate_layout.replicatelayout 279:All sheets to replicate:
+[['SPAD Sheet', 'Resistor Config D4'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config C4'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A1']]
+09-28 11:43:01 replicate_layout.replicatelayout 284:All sheets to replicate sorted:
+[['SPAD Sheet', 'Resistor Config A1'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config C4'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D4']]
+09-28 11:43:01 replicate_layout.replicatelayout 290:All sheets to replicate sorted and without source sheet:
+[['SPAD Sheet', 'Resistor Config A1'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D4']]
+09-28 11:43:01 replicate_layout.action_replicate_layout 185:Replicating layout
+09-28 11:43:01 replicate_layout.replicatelayout 991:Starting replication of sheets: [['SPAD Sheet', 'Resistor Config A1'], ['SPAD Sheet', 'Resistor Config A2'], ['SPAD Sheet', 'Resistor Config A3'], ['SPAD Sheet', 'Resistor Config A4'], ['SPAD Sheet', 'Resistor Config B1'], ['SPAD Sheet', 'Resistor Config B2'], ['SPAD Sheet', 'Resistor Config B3'], ['SPAD Sheet', 'Resistor Config B4'], ['SPAD Sheet', 'Resistor Config C1'], ['SPAD Sheet', 'Resistor Config C2'], ['SPAD Sheet', 'Resistor Config C3'], ['SPAD Sheet', 'Resistor Config D1'], ['SPAD Sheet', 'Resistor Config D2'], ['SPAD Sheet', 'Resistor Config D3'], ['SPAD Sheet', 'Resistor Config D4']]
+on level: ['SPAD Sheet', 'Resistor Config C4']
+with tracks=True, zone=True, text=True, containing=True, remove=True, locked=False
+09-28 11:43:01 root 267:updating GUI message: 'Preparing for replication'
+09-28 11:43:02 root 272:updating GUI with: 0
+09-28 11:43:02 replicate_layout.replicatelayout 556:Getting the list of source footprints
+09-28 11:43:02 root 272:updating GUI with: 0
+09-28 11:43:02 replicate_layout.replicatelayout 560:Getting the list of all the remaining footprints
+09-28 11:43:02 replicate_layout.replicatelayout 564:Getting nets local to source footprints
+09-28 11:43:02 replicate_layout.replicatelayout 568:Getting source bounding box
+09-28 11:43:02 root 272:updating GUI with: 37
+09-28 11:43:02 replicate_layout.replicatelayout 572:Getting source tracks
+09-28 11:43:02 replicate_layout.replicatelayout 576:Getting source zones
+09-28 11:43:02 root 272:updating GUI with: 62
+09-28 11:43:02 replicate_layout.replicatelayout 580:Getting source text items
+09-28 11:43:02 replicate_layout.replicatelayout 584:Getting source text items
+09-28 11:43:02 replicate_layout.replicatelayout 1022:Removing tracks and zones, before module placement
+09-28 11:43:02 root 267:updating GUI message: 'Removing zones and tracks'
+09-28 11:43:02 root 272:updating GUI with: 0
+09-28 11:43:02 root 272:updating GUI with: 6
+09-28 11:43:02 root 272:updating GUI with: 13
+09-28 11:43:02 root 272:updating GUI with: 20
+09-28 11:43:02 root 272:updating GUI with: 26
+09-28 11:43:02 root 272:updating GUI with: 33
+09-28 11:43:02 root 272:updating GUI with: 40
+09-28 11:43:02 root 272:updating GUI with: 46
+09-28 11:43:02 root 272:updating GUI with: 53
+09-28 11:43:02 root 272:updating GUI with: 60
+09-28 11:43:03 root 272:updating GUI with: 66
+09-28 11:43:03 root 272:updating GUI with: 73
+09-28 11:43:03 root 272:updating GUI with: 80
+09-28 11:43:03 root 272:updating GUI with: 86
+09-28 11:43:03 root 272:updating GUI with: 93
+09-28 11:43:03 root 267:updating GUI message: 'Replicating footprints'
+09-28 11:43:03 root 272:updating GUI with: 0
+09-28 11:43:03 replicate_layout.replicatelayout 590:Replicating footprints
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config A1']
+09-28 11:43:03 root 272:updating GUI with: 6
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config A2']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config A3']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config A4']
+09-28 11:43:03 root 272:updating GUI with: 26
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config B1']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config B2']
+09-28 11:43:03 root 272:updating GUI with: 39
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config B3']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config B4']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config C1']
+09-28 11:43:03 root 272:updating GUI with: 60
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config C2']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config C3']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config D1']
+09-28 11:43:03 root 272:updating GUI with: 77
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config D2']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config D3']
+09-28 11:43:03 replicate_layout.replicatelayout 596:Replicating footprints on sheet ['SPAD Sheet', 'Resistor Config D4']
+09-28 11:43:03 root 272:updating GUI with: 97
+09-28 11:43:03 replicate_layout.replicatelayout 1030:Removing tracks and zones, after module placement
+09-28 11:43:03 root 267:updating GUI message: 'Removing zones and tracks'
+09-28 11:43:03 root 272:updating GUI with: 0
+09-28 11:43:03 root 272:updating GUI with: 6
+09-28 11:43:03 root 272:updating GUI with: 13
+09-28 11:43:03 root 272:updating GUI with: 20
+09-28 11:43:03 root 272:updating GUI with: 26
+09-28 11:43:03 root 272:updating GUI with: 33
+09-28 11:43:03 root 272:updating GUI with: 40
+09-28 11:43:04 root 272:updating GUI with: 46
+09-28 11:43:04 root 272:updating GUI with: 53
+09-28 11:43:04 root 272:updating GUI with: 60
+09-28 11:43:04 root 272:updating GUI with: 66
+09-28 11:43:04 root 272:updating GUI with: 73
+09-28 11:43:04 root 272:updating GUI with: 80
+09-28 11:43:04 root 272:updating GUI with: 86
+09-28 11:43:04 root 272:updating GUI with: 93
+09-28 11:43:04 root 267:updating GUI message: 'Replicating tracks'
+09-28 11:43:04 root 272:updating GUI with: 0
+09-28 11:43:04 replicate_layout.replicatelayout 720:Replicating tracks
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config A1']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config A2']
+09-28 11:43:04 root 272:updating GUI with: 8
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config A3']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config A4']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config B1']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config B2']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config B3']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config B4']
+09-28 11:43:04 root 272:updating GUI with: 48
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config C1']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config C2']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config C3']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config D1']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config D2']
+09-28 11:43:04 root 272:updating GUI with: 81
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config D3']
+09-28 11:43:04 replicate_layout.replicatelayout 726:Replicating tracks on sheet ['SPAD Sheet', 'Resistor Config D4']
+09-28 11:43:04 root 267:updating GUI message: 'Replicating zones'
+09-28 11:43:04 replicate_layout.replicatelayout 771:Replicating zones
+09-28 11:43:04 root 272:updating GUI with: 0
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config A1']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config A2']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config A3']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config A4']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config B1']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config B2']
+09-28 11:43:04 root 272:updating GUI with: 40
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config B3']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config B4']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config C1']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config C2']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config C3']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config D1']
+09-28 11:43:04 root 272:updating GUI with: 80
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config D2']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config D3']
+09-28 11:43:04 replicate_layout.replicatelayout 778:Replicating zones on sheet ['SPAD Sheet', 'Resistor Config D4']
+09-28 11:43:04 root 267:updating GUI message: 'Replicating text'
+09-28 11:43:04 replicate_layout.replicatelayout 837:Replicating text
+09-28 11:43:04 root 272:updating GUI with: 0
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config A1']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config A2']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config A3']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config A4']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config B1']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config B2']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config B3']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config B4']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config C1']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config C2']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config C3']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config D1']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config D2']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config D3']
+09-28 11:43:04 replicate_layout.replicatelayout 844:Replicating text on sheet ['SPAD Sheet', 'Resistor Config D4']
+09-28 11:43:04 root 267:updating GUI message: 'Replicating drawings'
+09-28 11:43:04 replicate_layout.replicatelayout 868:Replicating drawings
+09-28 11:43:04 root 272:updating GUI with: 0
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config A1']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config A2']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config A3']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config A4']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config B1']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config B2']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config B3']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config B4']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config C1']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config C2']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config C3']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config D1']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config D2']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config D3']
+09-28 11:43:04 replicate_layout.replicatelayout 874:Replicating drawings on sheet ['SPAD Sheet', 'Resistor Config D4']
+09-28 11:43:05 replicate_layout.action_replicate_layout 207:Replication complete

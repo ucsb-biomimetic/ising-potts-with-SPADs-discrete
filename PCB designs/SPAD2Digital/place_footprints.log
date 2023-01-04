@@ -1,0 +1,12 @@
+08-06 12:45:53 place_footprints.action_place_footprints 414:Plugin executed on: 'linux'
+08-06 12:45:53 place_footprints.action_place_footprints 415:Plugin executed with python version: '3.8.8 (default, Nov 10 2011, 15:00:00) \n[GCC 10.2.0]'
+08-06 12:45:53 place_footprints.action_place_footprints 416:KiCad build version: 5.1.10
+08-06 12:45:53 place_footprints.action_place_footprints 417:Place footprints plugin version: 54 started
+08-06 12:45:55 place_footprints.place_footprints 213:getting project hierarchy from schematics
+08-06 12:45:55 place_footprints.place_footprints 228:getting a list of all footprints on board
+08-06 12:45:55 place_footprints.place_footprints 254:construcing a list of sheets suitable for replication on level:'Channel_D3', file:'Channel.sch'
+08-06 12:45:55 place_footprints.place_footprints 287:suitable sheets are:[['Channel_A1'], ['Channel_A2'], ['Channel_A3'], ['Channel_A4'], ['Channel_B1'], ['Channel_B2'], ['Channel_B3'], ['Channel_B4'], ['Channel_C1'], ['Channel_C2'], ['Channel_C3'], ['Channel_C4'], ['Channel_D1'], ['Channel_D2'], ['Channel_D4']]
+08-06 12:46:12 place_footprints.action_place_footprints 654:Modules to place: ['U27', 'U34', 'U29', 'U25', 'U23', 'U21', 'U19', 'U17', 'U15', 'U13', 'U11', 'U9', 'U7', 'U5', 'U3', 'U1']
+08-06 12:46:12 place_footprints.place_footprints 380:Starting placing with linear layout
+08-06 12:46:12 place_footprints.action_place_footprints 696:Placing complete
+08-06 12:46:12 place_footprints.action_place_footprints 697:Sorted_modules: ['U1', 'U3', 'U5', 'U7', 'U9', 'U11', 'U13', 'U15', 'U17', 'U19', 'U21', 'U23', 'U25', 'U27', 'U29', 'U34']

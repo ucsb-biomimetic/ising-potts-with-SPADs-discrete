@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SPAD2Digital-rescue)(type Legacy)(uri ${KIPRJMOD}/SPAD2Digital-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/zach/College/Research/Theogarajan/SPAD_Random_Number_Generator/SPAD2Digital/SPAD2Digital/SPAD2Digital.sch</source>
+    <date>Thu 12 Aug 2021 03:41:55 PM PDT</date>
+    <tool>Eeschema 5.1.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SPAD2Digital.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Channel_A2/" tstamps="/610B2909/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Channel_A3/" tstamps="/610DCDA1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Channel_A4/" tstamps="/610DCF84/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Channel_B1/" tstamps="/610F9789/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Channel_B2/" tstamps="/610F996C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Channel_B3/" tstamps="/610F9977/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Channel_B4/" tstamps="/610F9982/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Channel_C1/" tstamps="/6110B339/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Channel_C2/" tstamps="/6110B51C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Channel_C3/" tstamps="/6110B527/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Channel_C4/" tstamps="/6110B532/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Channel_D1/" tstamps="/6110B53D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Channel_D2/" tstamps="/6110B548/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Channel_D3/" tstamps="/6110B553/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/Channel_D4/" tstamps="/6110B55E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/Power Circuits/" tstamps="/61172A5C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power_Circuitry.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/Bias Circuitry/" tstamps="/6118170F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Bias_Circuitry.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/FPGA Connector/" tstamps="/610E0883/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>fpga_connector.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/SPAD Sheet/" tstamps="/62C1A9FF/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SPAD_Sheet.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/Channel_A1/" tstamps="/6103D777/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Channel.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R3">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C121">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A2/" tstamps="/610B2909/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C122">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A3/" tstamps="/610DCDA1/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R86">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C123">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A4/" tstamps="/610DCF84/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R87">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C124">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B1/" tstamps="/610F9789/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R88">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C125">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B2/" tstamps="/610F996C/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R89">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C126">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B3/" tstamps="/610F9977/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C46">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C49">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C48">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C47">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R90">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C127">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_B4/" tstamps="/610F9982/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C50">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C51">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C52">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C53">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C56">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C55">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C54">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R91">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C128">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C1/" tstamps="/6110B339/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C57">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C58">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C59">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C60">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C63">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C62">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C61">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R92">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C129">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C2/" tstamps="/6110B51C/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C64">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C65">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C66">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C67">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C70">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C69">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C68">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R93">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C130">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C3/" tstamps="/6110B527/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C71">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C72">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C73">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C74">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C77">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C76">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C75">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R94">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C131">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_C4/" tstamps="/6110B532/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C78">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C79">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C80">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C81">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C84">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C83">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C82">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R95">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C132">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D1/" tstamps="/6110B53D/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C85">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C86">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C87">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C88">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C91">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C90">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C89">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R96">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C133">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D2/" tstamps="/6110B548/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C92">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C93">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C94">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C95">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C98">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C97">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C96">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R97">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C134">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D3/" tstamps="/6110B553/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C99">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C100">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R98">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C135">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_D4/" tstamps="/6110B55E/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>NCP187</value>
+      <footprint>Custom_Footprint_Library:WDFN-6-1EP_2x2mm_P0.65mm_EP1.12x1.72</footprint>
+      <libsource lib="Custom_Part_Library" part="NCP187" description=""/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6121FAC8</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>61223784</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>61224C0E</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>612254CE</tstamp>
+    </comp>
+    <comp ref="B1">
+      <value>BANANA</value>
+      <footprint>Custom_Footprint_Library:CT3151-Horizontal</footprint>
+      <libsource lib="Custom_Part_Library" part="BANANA" description=""/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6122A2AC</tstamp>
+    </comp>
+    <comp ref="B2">
+      <value>BANANA</value>
+      <footprint>Custom_Footprint_Library:CT3151-Horizontal</footprint>
+      <libsource lib="Custom_Part_Library" part="BANANA" description=""/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6122A903</tstamp>
+    </comp>
+    <comp ref="B3">
+      <value>BANANA</value>
+      <footprint>Custom_Footprint_Library:CT3151-Horizontal</footprint>
+      <libsource lib="Custom_Part_Library" part="BANANA" description=""/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6122B6DB</tstamp>
+    </comp>
+    <comp ref="C138">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>611585EC</tstamp>
+    </comp>
+    <comp ref="C139">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6115867E</tstamp>
+    </comp>
+    <comp ref="C137">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6115E553</tstamp>
+    </comp>
+    <comp ref="C141">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>61168276</tstamp>
+    </comp>
+    <comp ref="C142">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>61168280</tstamp>
+    </comp>
+    <comp ref="C140">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power Circuits/" tstamps="/61172A5C/"/>
+      <tstamp>6116828A</tstamp>
+    </comp>
+    <comp ref="C110">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>611D582E</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>LTC3045</value>
+      <footprint>Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LTC3045" description=""/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610E1018</tstamp>
+    </comp>
+    <comp ref="C108">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610E9289</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610EAE38</tstamp>
+    </comp>
+    <comp ref="C111">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610EF077</tstamp>
+    </comp>
+    <comp ref="C109">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610FCE0C</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610FCE16</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>LTC3045</value>
+      <footprint>Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LTC3045" description=""/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>610FCDF9</tstamp>
+    </comp>
+    <comp ref="C112">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>611079EB</tstamp>
+    </comp>
+    <comp ref="C113">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Bias Circuitry/" tstamps="/6118170F/"/>
+      <tstamp>611079FB</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Samtec_ASP-134603</value>
+      <footprint>Connector_Samtec:Samtec_FMC_ASP-134604-01_4x40_Vertical</footprint>
+      <datasheet>http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf</datasheet>
+      <libsource lib="Custom_Part_Library" part="Samtec_ASP-134603" description="Connector array, 10x40, 1.27mm pitch, male pins, gold finish, VITA 57.1 FMC, SMD"/>
+      <sheetpath names="/FPGA Connector/" tstamps="/610E0883/"/>
+      <tstamp>61224F65</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>ONSEMI_SIPM_300XX_MATE</value>
+      <footprint>Custom_Footprint_Library:ONSEMI_SIPM_Hirose_Connector</footprint>
+      <libsource lib="Custom_Part_Library" part="ONSEMI_SIPM_300XX_MATE" description=""/>
+      <sheetpath names="/SPAD Sheet/" tstamps="/62C1A9FF/"/>
+      <tstamp>6109C8A1</tstamp>
+    </comp>
+    <comp ref="R81">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>610580F9</tstamp>
+    </comp>
+    <comp ref="C114">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6105883C</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>LMH6629-NGQ08A</value>
+      <footprint>Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</footprint>
+      <libsource lib="Custom_Part_Library" part="LMH6629-NGQ08A" description=""/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6105A3C3</tstamp>
+    </comp>
+    <comp ref="C115">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>61069974</tstamp>
+    </comp>
+    <comp ref="C116">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6106C3C8</tstamp>
+    </comp>
+    <comp ref="C117">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6106CE27</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6107534B</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>MAX40026</value>
+      <footprint>Package_DFN_QFN:TDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm</footprint>
+      <libsource lib="Custom_Part_Library" part="MAX40026" description=""/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>611F6F34</tstamp>
+    </comp>
+    <comp ref="C120">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>61097BA8</tstamp>
+    </comp>
+    <comp ref="C119">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>61097AA3</tstamp>
+    </comp>
+    <comp ref="C118">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>610903F0</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>610CED65</tstamp>
+    </comp>
+    <comp ref="R80">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>610D05B4</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>610D907E</tstamp>
+    </comp>
+    <comp ref="R99">
+      <value>500</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6111C2A1</tstamp>
+    </comp>
+    <comp ref="C136">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Channel_A1/" tstamps="/6103D777/"/>
+      <tstamp>6111C381</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Custom_Part_Library" part="BANANA">
+      <footprints>
+        <fp>CT3151-Horizontal</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">BANANA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Part_Library" part="LMH6629-NGQ08A">
+      <footprints>
+        <fp>WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMH6629-NGQ08A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PD" type="input"/>
+        <pin num="2" name="FB" type="BiDi"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="+" type="input"/>
+        <pin num="5" name="~" type="power_in"/>
+        <pin num="6" name="COMP" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="~" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Part_Library" part="LTC3045">
+      <footprints>
+        <fp>DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC3045</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="PG" type="input"/>
+        <pin num="5" name="ILIM" type="output"/>
+        <pin num="6" name="PGFB" type="output"/>
+        <pin num="7" name="SET" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="OUTS" type="output"/>
+        <pin num="10" name="OUT" type="output"/>
+        <pin num="11" name="~" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Part_Library" part="MAX40026">
+      <footprints>
+        <fp>TDFN-8*2x2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX40026</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~" type="power_in"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="~" type="power_in"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="+" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Part_Library" part="NCP187">
+      <footprints>
+        <fp>WDFN-6-1EP_2x2mm_P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCP187</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="PG" type="output"/>
+        <pin num="5" name="SNS" type="output"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Part_Library" part="ONSEMI_SIPM_300XX_MATE">
+      <footprints>
+        <fp>ONSEMI_SIPM_Hirose_Connector</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">ONSEMI_SIPM_300XX_MATE</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="S2" type="output"/>
+        <pin num="A2" name="F1" type="output"/>
+        <pin num="A3" name="S1" type="output"/>
+        <pin num="A4" name="F2" type="output"/>
+        <pin num="A5" name="S3" type="output"/>
+        <pin num="A6" name="F3" type="output"/>
+        <pin num="A7" name="COM" type="output"/>
+        <pin num="A8" name="COM" type="output"/>
+        <pin num="A9" name="F4" type="output"/>
+        <pin num="A10" name="S4" type="output"/>
+        <pin num="A11" name="F8" type="output"/>
+        <pin num="A12" name="S8" type="output"/>
+        <pin num="A13" name="COM" type="output"/>
+        <pin num="A14" name="COM" type="output"/>
+        <pin num="A15" name="F7" type="output"/>
+        <pin num="A16" name="S7" type="output"/>
+        <pin num="A17" name="F6" type="output"/>
+        <pin num="A18" name="S6" type="output"/>
+        <pin num="A19" name="S5" type="output"/>
+        <pin num="A20" name="F5" type="output"/>
+        <pin num="B1" name="S9" type="output"/>
+        <pin num="B2" name="F9" type="output"/>
+        <pin num="B3" name="S10" type="output"/>
+        <pin num="B4" name="F10" type="output"/>
+        <pin num="B5" name="S11" type="output"/>
+        <pin num="B6" name="F11" type="output"/>
+        <pin num="B7" name="COM" type="output"/>
+        <pin num="B8" name="COM" type="output"/>
+        <pin num="B9" name="S12" type="output"/>
+        <pin num="B10" name="F12" type="output"/>
+        <pin num="B11" name="F16" type="output"/>
+        <pin num="B12" name="S16" type="output"/>
+        <pin num="B13" name="COM" type="output"/>
+        <pin num="B14" name="COM" type="output"/>
+        <pin num="B15" name="F15" type="output"/>
+        <pin num="B16" name="S15" type="output"/>
+        <pin num="B17" name="F14" type="output"/>
+        <pin num="B18" name="S14" type="output"/>
+        <pin num="B19" name="S13" type="output"/>
+        <pin num="B20" name="F13" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Part_Library" part="Samtec_ASP-134603">
+      <description>Connector array, 10x40, 1.27mm pitch, male pins, gold finish, VITA 57.1 FMC, SMD</description>
+      <docs>http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf</docs>
+      <footprints>
+        <fp>*FMC*ASP*134604?01*4x40*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Samtec_ASP-134603</field>
+        <field name="Footprint">Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="Pin_1" type="passive"/>
+        <pin num="A2" name="Pin_2" type="passive"/>
+        <pin num="A3" name="Pin_3" type="passive"/>
+        <pin num="A4" name="Pin_4" type="passive"/>
+        <pin num="A5" name="Pin_5" type="passive"/>
+        <pin num="A6" name="Pin_6" type="passive"/>
+        <pin num="A7" name="Pin_7" type="passive"/>
+        <pin num="A8" name="Pin_8" type="passive"/>
+        <pin num="A9" name="Pin_9" type="passive"/>
+        <pin num="A10" name="Pin_10" type="passive"/>
+        <pin num="A11" name="Pin_11" type="passive"/>
+        <pin num="A12" name="Pin_12" type="passive"/>
+        <pin num="A13" name="Pin_13" type="passive"/>
+        <pin num="A14" name="Pin_14" type="passive"/>
+        <pin num="A15" name="Pin_15" type="passive"/>
+        <pin num="A16" name="Pin_16" type="passive"/>
+        <pin num="A17" name="Pin_17" type="passive"/>
+        <pin num="A18" name="Pin_18" type="passive"/>
+        <pin num="A19" name="Pin_19" type="passive"/>
+        <pin num="A20" name="Pin_20" type="passive"/>
+        <pin num="A21" name="Pin_21" type="passive"/>
+        <pin num="A22" name="Pin_22" type="passive"/>
+        <pin num="A23" name="Pin_23" type="passive"/>
+        <pin num="A24" name="Pin_24" type="passive"/>
+        <pin num="A25" name="Pin_25" type="passive"/>
+        <pin num="A26" name="Pin_26" type="passive"/>
+        <pin num="A27" name="Pin_27" type="passive"/>
+        <pin num="A28" name="Pin_28" type="passive"/>
+        <pin num="A29" name="Pin_29" type="passive"/>
+        <pin num="A30" name="Pin_30" type="passive"/>
+        <pin num="A31" name="Pin_31" type="passive"/>
+        <pin num="A32" name="Pin_32" type="passive"/>
+        <pin num="A33" name="Pin_33" type="passive"/>
+        <pin num="A34" name="Pin_34" type="passive"/>
+        <pin num="A35" name="Pin_35" type="passive"/>
+        <pin num="A36" name="Pin_36" type="passive"/>
+        <pin num="A37" name="Pin_37" type="passive"/>
+        <pin num="A38" name="Pin_38" type="passive"/>
+        <pin num="A39" name="Pin_39" type="passive"/>
+        <pin num="A40" name="Pin_40" type="passive"/>
+        <pin num="B1" name="Pin_1" type="passive"/>
+        <pin num="B2" name="Pin_2" type="passive"/>
+        <pin num="B3" name="Pin_3" type="passive"/>
+        <pin num="B4" name="Pin_4" type="passive"/>
+        <pin num="B5" name="Pin_5" type="passive"/>
+        <pin num="B6" name="Pin_6" type="passive"/>
+        <pin num="B7" name="Pin_7" type="passive"/>
+        <pin num="B8" name="Pin_8" type="passive"/>
+        <pin num="B9" name="Pin_9" type="passive"/>
+        <pin num="B10" name="Pin_10" type="passive"/>
+        <pin num="B11" name="Pin_11" type="passive"/>
+        <pin num="B12" name="Pin_12" type="passive"/>
+        <pin num="B13" name="Pin_13" type="passive"/>
+        <pin num="B14" name="Pin_14" type="passive"/>
+        <pin num="B15" name="Pin_15" type="passive"/>
+        <pin num="B16" name="Pin_16" type="passive"/>
+        <pin num="B17" name="Pin_17" type="passive"/>
+        <pin num="B18" name="Pin_18" type="passive"/>
+        <pin num="B19" name="Pin_19" type="passive"/>
+        <pin num="B20" name="Pin_20" type="passive"/>
+        <pin num="B21" name="Pin_21" type="passive"/>
+        <pin num="B22" name="Pin_22" type="passive"/>
+        <pin num="B23" name="Pin_23" type="passive"/>
+        <pin num="B24" name="Pin_24" type="passive"/>
+        <pin num="B25" name="Pin_25" type="passive"/>
+        <pin num="B26" name="Pin_26" type="passive"/>
+        <pin num="B27" name="Pin_27" type="passive"/>
+        <pin num="B28" name="Pin_28" type="passive"/>
+        <pin num="B29" name="Pin_29" type="passive"/>
+        <pin num="B30" name="Pin_30" type="passive"/>
+        <pin num="B31" name="Pin_31" type="passive"/>
+        <pin num="B32" name="Pin_32" type="passive"/>
+        <pin num="B33" name="Pin_33" type="passive"/>
+        <pin num="B34" name="Pin_34" type="passive"/>
+        <pin num="B35" name="Pin_35" type="passive"/>
+        <pin num="B36" name="Pin_36" type="passive"/>
+        <pin num="B37" name="Pin_37" type="passive"/>
+        <pin num="B38" name="Pin_38" type="passive"/>
+        <pin num="B39" name="Pin_39" type="passive"/>
+        <pin num="B40" name="Pin_40" type="passive"/>
+        <pin num="C01" name="Pin_1" type="passive"/>
+        <pin num="C02" name="Pin_2" type="passive"/>
+        <pin num="C03" name="Pin_3" type="passive"/>
+        <pin num="C04" name="Pin_4" type="passive"/>
+        <pin num="C05" name="Pin_5" type="passive"/>
+        <pin num="C06" name="Pin_6" type="passive"/>
+        <pin num="C07" name="Pin_7" type="passive"/>
+        <pin num="C08" name="Pin_8" type="passive"/>
+        <pin num="C09" name="Pin_9" type="passive"/>
+        <pin num="C10" name="Pin_10" type="passive"/>
+        <pin num="C11" name="Pin_11" type="passive"/>
+        <pin num="C12" name="Pin_12" type="passive"/>
+        <pin num="C13" name="Pin_13" type="passive"/>
+        <pin num="C14" name="Pin_14" type="passive"/>
+        <pin num="C15" name="Pin_15" type="passive"/>
+        <pin num="C16" name="Pin_16" type="passive"/>
+        <pin num="C17" name="Pin_17" type="passive"/>
+        <pin num="C18" name="Pin_18" type="passive"/>
+        <pin num="C19" name="Pin_19" type="passive"/>
+        <pin num="C20" name="Pin_20" type="passive"/>
+        <pin num="C21" name="Pin_21" type="passive"/>
+        <pin num="C22" name="Pin_22" type="passive"/>
+        <pin num="C23" name="Pin_23" type="passive"/>
+        <pin num="C24" name="Pin_24" type="passive"/>
+        <pin num="C25" name="Pin_25" type="passive"/>
+        <pin num="C26" name="Pin_26" type="passive"/>
+        <pin num="C27" name="Pin_27" type="passive"/>
+        <pin num="C28" name="Pin_28" type="passive"/>
+        <pin num="C29" name="Pin_29" type="passive"/>
+        <pin num="C30" name="Pin_30" type="passive"/>
+        <pin num="C31" name="Pin_31" type="passive"/>
+        <pin num="C32" name="Pin_32" type="passive"/>
+        <pin num="C33" name="Pin_33" type="passive"/>
+        <pin num="C34" name="Pin_34" type="passive"/>
+        <pin num="C35" name="Pin_35" type="passive"/>
+        <pin num="C36" name="Pin_36" type="passive"/>
+        <pin num="C37" name="Pin_37" type="passive"/>
+        <pin num="C38" name="Pin_38" type="passive"/>
+        <pin num="C39" name="Pin_39" type="passive"/>
+        <pin num="C40" name="Pin_40" type="passive"/>
+        <pin num="D01" name="Pin_1" type="passive"/>
+        <pin num="D02" name="Pin_2" type="passive"/>
+        <pin num="D03" name="Pin_3" type="passive"/>
+        <pin num="D04" name="Pin_4" type="passive"/>
+        <pin num="D05" name="Pin_5" type="passive"/>
+        <pin num="D06" name="Pin_6" type="passive"/>
+        <pin num="D07" name="Pin_7" type="passive"/>
+        <pin num="D08" name="Pin_8" type="passive"/>
+        <pin num="D09" name="Pin_9" type="passive"/>
+        <pin num="D10" name="Pin_10" type="passive"/>
+        <pin num="D11" name="Pin_11" type="passive"/>
+        <pin num="D12" name="Pin_12" type="passive"/>
+        <pin num="D13" name="Pin_13" type="passive"/>
+        <pin num="D14" name="Pin_14" type="passive"/>
+        <pin num="D15" name="Pin_15" type="passive"/>
+        <pin num="D16" name="Pin_16" type="passive"/>
+        <pin num="D17" name="Pin_17" type="passive"/>
+        <pin num="D18" name="Pin_18" type="passive"/>
+        <pin num="D19" name="Pin_19" type="passive"/>
+        <pin num="D20" name="Pin_20" type="passive"/>
+        <pin num="D21" name="Pin_21" type="passive"/>
+        <pin num="D22" name="Pin_22" type="passive"/>
+        <pin num="D23" name="Pin_23" type="passive"/>
+        <pin num="D24" name="Pin_24" type="passive"/>
+        <pin num="D25" name="Pin_25" type="passive"/>
+        <pin num="D26" name="Pin_26" type="passive"/>
+        <pin num="D27" name="Pin_27" type="passive"/>
+        <pin num="D28" name="Pin_28" type="passive"/>
+        <pin num="D29" name="Pin_29" type="passive"/>
+        <pin num="D30" name="Pin_30" type="passive"/>
+        <pin num="D31" name="Pin_31" type="passive"/>
+        <pin num="D32" name="Pin_32" type="passive"/>
+        <pin num="D33" name="Pin_33" type="passive"/>
+        <pin num="D34" name="Pin_34" type="passive"/>
+        <pin num="D35" name="Pin_35" type="passive"/>
+        <pin num="D36" name="Pin_36" type="passive"/>
+        <pin num="D37" name="Pin_37" type="passive"/>
+        <pin num="D38" name="Pin_38" type="passive"/>
+        <pin num="D39" name="Pin_39" type="passive"/>
+        <pin num="D40" name="Pin_40" type="passive"/>
+        <pin num="E1" name="Pin_1" type="passive"/>
+        <pin num="E2" name="Pin_2" type="passive"/>
+        <pin num="E3" name="Pin_3" type="passive"/>
+        <pin num="E4" name="Pin_4" type="passive"/>
+        <pin num="E5" name="Pin_5" type="passive"/>
+        <pin num="E6" name="Pin_6" type="passive"/>
+        <pin num="E7" name="Pin_7" type="passive"/>
+        <pin num="E8" name="Pin_8" type="passive"/>
+        <pin num="E9" name="Pin_9" type="passive"/>
+        <pin num="E10" name="Pin_10" type="passive"/>
+        <pin num="E11" name="Pin_11" type="passive"/>
+        <pin num="E12" name="Pin_12" type="passive"/>
+        <pin num="E13" name="Pin_13" type="passive"/>
+        <pin num="E14" name="Pin_14" type="passive"/>
+        <pin num="E15" name="Pin_15" type="passive"/>
+        <pin num="E16" name="Pin_16" type="passive"/>
+        <pin num="E17" name="Pin_17" type="passive"/>
+        <pin num="E18" name="Pin_18" type="passive"/>
+        <pin num="E19" name="Pin_19" type="passive"/>
+        <pin num="E20" name="Pin_20" type="passive"/>
+        <pin num="E21" name="Pin_21" type="passive"/>
+        <pin num="E22" name="Pin_22" type="passive"/>
+        <pin num="E23" name="Pin_23" type="passive"/>
+        <pin num="E24" name="Pin_24" type="passive"/>
+        <pin num="E25" name="Pin_25" type="passive"/>
+        <pin num="E26" name="Pin_26" type="passive"/>
+        <pin num="E27" name="Pin_27" type="passive"/>
+        <pin num="E28" name="Pin_28" type="passive"/>
+        <pin num="E29" name="Pin_29" type="passive"/>
+        <pin num="E30" name="Pin_30" type="passive"/>
+        <pin num="E31" name="Pin_31" type="passive"/>
+        <pin num="E32" name="Pin_32" type="passive"/>
+        <pin num="E33" name="Pin_33" type="passive"/>
+        <pin num="E34" name="Pin_34" type="passive"/>
+        <pin num="E35" name="Pin_35" type="passive"/>
+        <pin num="E36" name="Pin_36" type="passive"/>
+        <pin num="E37" name="Pin_37" type="passive"/>
+        <pin num="E38" name="Pin_38" type="passive"/>
+        <pin num="E39" name="Pin_39" type="passive"/>
+        <pin num="E40" name="Pin_40" type="passive"/>
+        <pin num="F1" name="Pin_1" type="passive"/>
+        <pin num="F2" name="Pin_2" type="passive"/>
+        <pin num="F3" name="Pin_3" type="passive"/>
+        <pin num="F4" name="Pin_4" type="passive"/>
+        <pin num="F5" name="Pin_5" type="passive"/>
+        <pin num="F6" name="Pin_6" type="passive"/>
+        <pin num="F7" name="Pin_7" type="passive"/>
+        <pin num="F8" name="Pin_8" type="passive"/>
+        <pin num="F9" name="Pin_9" type="passive"/>
+        <pin num="F10" name="Pin_10" type="passive"/>
+        <pin num="F11" name="Pin_11" type="passive"/>
+        <pin num="F12" name="Pin_12" type="passive"/>
+        <pin num="F13" name="Pin_13" type="passive"/>
+        <pin num="F14" name="Pin_14" type="passive"/>
+        <pin num="F15" name="Pin_15" type="passive"/>
+        <pin num="F16" name="Pin_16" type="passive"/>
+        <pin num="F17" name="Pin_17" type="passive"/>
+        <pin num="F18" name="Pin_18" type="passive"/>
+        <pin num="F19" name="Pin_19" type="passive"/>
+        <pin num="F20" name="Pin_20" type="passive"/>
+        <pin num="F21" name="Pin_21" type="passive"/>
+        <pin num="F22" name="Pin_22" type="passive"/>
+        <pin num="F23" name="Pin_23" type="passive"/>
+        <pin num="F24" name="Pin_24" type="passive"/>
+        <pin num="F25" name="Pin_25" type="passive"/>
+        <pin num="F26" name="Pin_26" type="passive"/>
+        <pin num="F27" name="Pin_27" type="passive"/>
+        <pin num="F28" name="Pin_28" type="passive"/>
+        <pin num="F29" name="Pin_29" type="passive"/>
+        <pin num="F30" name="Pin_30" type="passive"/>
+        <pin num="F31" name="Pin_31" type="passive"/>
+        <pin num="F32" name="Pin_32" type="passive"/>
+        <pin num="F33" name="Pin_33" type="passive"/>
+        <pin num="F34" name="Pin_34" type="passive"/>
+        <pin num="F35" name="Pin_35" type="passive"/>
+        <pin num="F36" name="Pin_36" type="passive"/>
+        <pin num="F37" name="Pin_37" type="passive"/>
+        <pin num="F38" name="Pin_38" type="passive"/>
+        <pin num="F39" name="Pin_39" type="passive"/>
+        <pin num="F40" name="Pin_40" type="passive"/>
+        <pin num="G01" name="Pin_1" type="passive"/>
+        <pin num="G02" name="Pin_2" type="passive"/>
+        <pin num="G03" name="Pin_3" type="passive"/>
+        <pin num="G04" name="Pin_4" type="passive"/>
+        <pin num="G05" name="Pin_5" type="passive"/>
+        <pin num="G06" name="Pin_6" type="passive"/>
+        <pin num="G07" name="Pin_7" type="passive"/>
+        <pin num="G08" name="Pin_8" type="passive"/>
+        <pin num="G09" name="Pin_9" type="passive"/>
+        <pin num="G10" name="Pin_10" type="passive"/>
+        <pin num="G11" name="Pin_11" type="passive"/>
+        <pin num="G12" name="Pin_12" type="passive"/>
+        <pin num="G13" name="Pin_13" type="passive"/>
+        <pin num="G14" name="Pin_14" type="passive"/>
+        <pin num="G15" name="Pin_15" type="passive"/>
+        <pin num="G16" name="Pin_16" type="passive"/>
+        <pin num="G17" name="Pin_17" type="passive"/>
+        <pin num="G18" name="Pin_18" type="passive"/>
+        <pin num="G19" name="Pin_19" type="passive"/>
+        <pin num="G20" name="Pin_20" type="passive"/>
+        <pin num="G21" name="Pin_21" type="passive"/>
+        <pin num="G22" name="Pin_22" type="passive"/>
+        <pin num="G23" name="Pin_23" type="passive"/>
+        <pin num="G24" name="Pin_24" type="passive"/>
+        <pin num="G25" name="Pin_25" type="passive"/>
+        <pin num="G26" name="Pin_26" type="passive"/>
+        <pin num="G27" name="Pin_27" type="passive"/>
+        <pin num="G28" name="Pin_28" type="passive"/>
+        <pin num="G29" name="Pin_29" type="passive"/>
+        <pin num="G30" name="Pin_30" type="passive"/>
+        <pin num="G31" name="Pin_31" type="passive"/>
+        <pin num="G32" name="Pin_32" type="passive"/>
+        <pin num="G33" name="Pin_33" type="passive"/>
+        <pin num="G34" name="Pin_34" type="passive"/>
+        <pin num="G35" name="Pin_35" type="passive"/>
+        <pin num="G36" name="Pin_36" type="passive"/>
+        <pin num="G37" name="Pin_37" type="passive"/>
+        <pin num="G38" name="Pin_38" type="passive"/>
+        <pin num="G39" name="Pin_39" type="passive"/>
+        <pin num="G40" name="Pin_40" type="passive"/>
+        <pin num="H01" name="Pin_1" type="passive"/>
+        <pin num="H02" name="Pin_2" type="passive"/>
+        <pin num="H03" name="Pin_3" type="passive"/>
+        <pin num="H04" name="Pin_4" type="passive"/>
+        <pin num="H05" name="Pin_5" type="passive"/>
+        <pin num="H06" name="Pin_6" type="passive"/>
+        <pin num="H07" name="Pin_7" type="passive"/>
+        <pin num="H08" name="Pin_8" type="passive"/>
+        <pin num="H09" name="Pin_9" type="passive"/>
+        <pin num="H10" name="Pin_10" type="passive"/>
+        <pin num="H11" name="Pin_11" type="passive"/>
+        <pin num="H12" name="Pin_12" type="passive"/>
+        <pin num="H13" name="Pin_13" type="passive"/>
+        <pin num="H14" name="Pin_14" type="passive"/>
+        <pin num="H15" name="Pin_15" type="passive"/>
+        <pin num="H16" name="Pin_16" type="passive"/>
+        <pin num="H17" name="Pin_17" type="passive"/>
+        <pin num="H18" name="Pin_18" type="passive"/>
+        <pin num="H19" name="Pin_19" type="passive"/>
+        <pin num="H20" name="Pin_20" type="passive"/>
+        <pin num="H21" name="Pin_21" type="passive"/>
+        <pin num="H22" name="Pin_22" type="passive"/>
+        <pin num="H23" name="Pin_23" type="passive"/>
+        <pin num="H24" name="Pin_24" type="passive"/>
+        <pin num="H25" name="Pin_25" type="passive"/>
+        <pin num="H26" name="Pin_26" type="passive"/>
+        <pin num="H27" name="Pin_27" type="passive"/>
+        <pin num="H28" name="Pin_28" type="passive"/>
+        <pin num="H29" name="Pin_29" type="passive"/>
+        <pin num="H30" name="Pin_30" type="passive"/>
+        <pin num="H31" name="Pin_31" type="passive"/>
+        <pin num="H32" name="Pin_32" type="passive"/>
+        <pin num="H33" name="Pin_33" type="passive"/>
+        <pin num="H34" name="Pin_34" type="passive"/>
+        <pin num="H35" name="Pin_35" type="passive"/>
+        <pin num="H36" name="Pin_36" type="passive"/>
+        <pin num="H37" name="Pin_37" type="passive"/>
+        <pin num="H38" name="Pin_38" type="passive"/>
+        <pin num="H39" name="Pin_39" type="passive"/>
+        <pin num="H40" name="Pin_40" type="passive"/>
+        <pin num="J1" name="Pin_1" type="passive"/>
+        <pin num="J2" name="Pin_2" type="passive"/>
+        <pin num="J3" name="Pin_3" type="passive"/>
+        <pin num="J4" name="Pin_4" type="passive"/>
+        <pin num="J5" name="Pin_5" type="passive"/>
+        <pin num="J6" name="Pin_6" type="passive"/>
+        <pin num="J7" name="Pin_7" type="passive"/>
+        <pin num="J8" name="Pin_8" type="passive"/>
+        <pin num="J9" name="Pin_9" type="passive"/>
+        <pin num="J10" name="Pin_10" type="passive"/>
+        <pin num="J11" name="Pin_11" type="passive"/>
+        <pin num="J12" name="Pin_12" type="passive"/>
+        <pin num="J13" name="Pin_13" type="passive"/>
+        <pin num="J14" name="Pin_14" type="passive"/>
+        <pin num="J15" name="Pin_15" type="passive"/>
+        <pin num="J16" name="Pin_16" type="passive"/>
+        <pin num="J17" name="Pin_17" type="passive"/>
+        <pin num="J18" name="Pin_18" type="passive"/>
+        <pin num="J19" name="Pin_19" type="passive"/>
+        <pin num="J20" name="Pin_20" type="passive"/>
+        <pin num="J21" name="Pin_21" type="passive"/>
+        <pin num="J22" name="Pin_22" type="passive"/>
+        <pin num="J23" name="Pin_23" type="passive"/>
+        <pin num="J24" name="Pin_24" type="passive"/>
+        <pin num="J25" name="Pin_25" type="passive"/>
+        <pin num="J26" name="Pin_26" type="passive"/>
+        <pin num="J27" name="Pin_27" type="passive"/>
+        <pin num="J28" name="Pin_28" type="passive"/>
+        <pin num="J29" name="Pin_29" type="passive"/>
+        <pin num="J30" name="Pin_30" type="passive"/>
+        <pin num="J31" name="Pin_31" type="passive"/>
+        <pin num="J32" name="Pin_32" type="passive"/>
+        <pin num="J33" name="Pin_33" type="passive"/>
+        <pin num="J34" name="Pin_34" type="passive"/>
+        <pin num="J35" name="Pin_35" type="passive"/>
+        <pin num="J36" name="Pin_36" type="passive"/>
+        <pin num="J37" name="Pin_37" type="passive"/>
+        <pin num="J38" name="Pin_38" type="passive"/>
+        <pin num="J39" name="Pin_39" type="passive"/>
+        <pin num="J40" name="Pin_40" type="passive"/>
+        <pin num="K1" name="Pin_1" type="passive"/>
+        <pin num="K2" name="Pin_2" type="passive"/>
+        <pin num="K3" name="Pin_3" type="passive"/>
+        <pin num="K4" name="Pin_4" type="passive"/>
+        <pin num="K5" name="Pin_5" type="passive"/>
+        <pin num="K6" name="Pin_6" type="passive"/>
+        <pin num="K7" name="Pin_7" type="passive"/>
+        <pin num="K8" name="Pin_8" type="passive"/>
+        <pin num="K9" name="Pin_9" type="passive"/>
+        <pin num="K10" name="Pin_10" type="passive"/>
+        <pin num="K11" name="Pin_11" type="passive"/>
+        <pin num="K12" name="Pin_12" type="passive"/>
+        <pin num="K13" name="Pin_13" type="passive"/>
+        <pin num="K14" name="Pin_14" type="passive"/>
+        <pin num="K15" name="Pin_15" type="passive"/>
+        <pin num="K16" name="Pin_16" type="passive"/>
+        <pin num="K17" name="Pin_17" type="passive"/>
+        <pin num="K18" name="Pin_18" type="passive"/>
+        <pin num="K19" name="Pin_19" type="passive"/>
+        <pin num="K20" name="Pin_20" type="passive"/>
+        <pin num="K21" name="Pin_21" type="passive"/>
+        <pin num="K22" name="Pin_22" type="passive"/>
+        <pin num="K23" name="Pin_23" type="passive"/>
+        <pin num="K24" name="Pin_24" type="passive"/>
+        <pin num="K25" name="Pin_25" type="passive"/>
+        <pin num="K26" name="Pin_26" type="passive"/>
+        <pin num="K27" name="Pin_27" type="passive"/>
+        <pin num="K28" name="Pin_28" type="passive"/>
+        <pin num="K29" name="Pin_29" type="passive"/>
+        <pin num="K30" name="Pin_30" type="passive"/>
+        <pin num="K31" name="Pin_31" type="passive"/>
+        <pin num="K32" name="Pin_32" type="passive"/>
+        <pin num="K33" name="Pin_33" type="passive"/>
+        <pin num="K34" name="Pin_34" type="passive"/>
+        <pin num="K35" name="Pin_35" type="passive"/>
+        <pin num="K36" name="Pin_36" type="passive"/>
+        <pin num="K37" name="Pin_37" type="passive"/>
+        <pin num="K38" name="Pin_38" type="passive"/>
+        <pin num="K39" name="Pin_39" type="passive"/>
+        <pin num="K40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Custom_Part_Library">
+      <uri>/home/zach/College/Research/Theogarajan/Custom_Part_Library.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/Symbols/share/kicad/library/Device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/A2_OUT_P">
+      <node ref="U2" pin="8"/>
+      <node ref="R5" pin="1"/>
+      <node ref="J1" pin="D12"/>
+    </net>
+    <net code="2" name="/B2_OUT_P">
+      <node ref="J1" pin="D15"/>
+      <node ref="U10" pin="8"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="3" name="/B1_OUT_N">
+      <node ref="U8" pin="1"/>
+      <node ref="R20" pin="2"/>
+      <node ref="J1" pin="C15"/>
+    </net>
+    <net code="4" name="/B1_OUT_P">
+      <node ref="R20" pin="1"/>
+      <node ref="J1" pin="C14"/>
+      <node ref="U8" pin="8"/>
+    </net>
+    <net code="5" name="/A4_OUT_N">
+      <node ref="U6" pin="1"/>
+      <node ref="R15" pin="2"/>
+      <node ref="J1" pin="H08"/>
+    </net>
+    <net code="6" name="/A4_OUT_P">
+      <node ref="U6" pin="8"/>
+      <node ref="R15" pin="1"/>
+      <node ref="J1" pin="H07"/>
+    </net>
+    <net code="7" name="/A3_OUT_N">
+      <node ref="J1" pin="G10"/>
+      <node ref="R10" pin="2"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="8" name="/A3_OUT_P">
+      <node ref="R10" pin="1"/>
+      <node ref="U4" pin="8"/>
+      <node ref="J1" pin="G09"/>
+    </net>
+    <net code="9" name="/A2_OUT_N">
+      <node ref="R5" pin="2"/>
+      <node ref="J1" pin="D11"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="10" name="/B2_OUT_N">
+      <node ref="J1" pin="D14"/>
+      <node ref="R25" pin="2"/>
+      <node ref="U10" pin="1"/>
+    </net>
+    <net code="11" name="/A1_OUT_N">
+      <node ref="J1" pin="C11"/>
+      <node ref="U35" pin="1"/>
+      <node ref="R83" pin="2"/>
+    </net>
+    <net code="12" name="/A1_OUT_P">
+      <node ref="U35" pin="8"/>
+      <node ref="R83" pin="1"/>
+      <node ref="J1" pin="C10"/>
+    </net>
+    <net code="13" name="/D4_OUT_N">
+      <node ref="R75" pin="2"/>
+      <node ref="U30" pin="1"/>
+      <node ref="J1" pin="H28"/>
+    </net>
+    <net code="14" name="/D4_OUT_P">
+      <node ref="U30" pin="8"/>
+      <node ref="J1" pin="H29"/>
+      <node ref="R75" pin="1"/>
+    </net>
+    <net code="15" name="/D4">
+      <node ref="U29" pin="3"/>
+      <node ref="C135" pin="2"/>
+      <node ref="R98" pin="2"/>
+      <node ref="J2" pin="B11"/>
+      <node ref="R73" pin="2"/>
+      <node ref="C99" pin="2"/>
+    </net>
+    <net code="16" name="/B3_OUT_P">
+      <node ref="R30" pin="1"/>
+      <node ref="U12" pin="8"/>
+      <node ref="J1" pin="G16"/>
+    </net>
+    <net code="17" name="/B3_OUT_N">
+      <node ref="J1" pin="G15"/>
+      <node ref="U12" pin="1"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="18" name="/B4_OUT_P">
+      <node ref="R35" pin="1"/>
+      <node ref="U14" pin="8"/>
+      <node ref="J1" pin="H17"/>
+    </net>
+    <net code="19" name="/B4_OUT_N">
+      <node ref="U14" pin="1"/>
+      <node ref="R35" pin="2"/>
+      <node ref="J1" pin="H16"/>
+    </net>
+    <net code="20" name="/C1_OUT_P">
+      <node ref="U16" pin="8"/>
+      <node ref="R40" pin="1"/>
+      <node ref="J1" pin="C23"/>
+    </net>
+    <net code="21" name="/C1_OUT_N">
+      <node ref="J1" pin="C22"/>
+      <node ref="R40" pin="2"/>
+      <node ref="U16" pin="1"/>
+    </net>
+    <net code="22" name="/C2_OUT_P">
+      <node ref="U18" pin="8"/>
+      <node ref="R45" pin="1"/>
+      <node ref="J1" pin="D21"/>
+    </net>
+    <net code="23" name="/C2_OUT_N">
+      <node ref="U18" pin="1"/>
+      <node ref="J1" pin="D20"/>
+      <node ref="R45" pin="2"/>
+    </net>
+    <net code="24" name="/C3_OUT_P">
+      <node ref="U20" pin="8"/>
+      <node ref="R50" pin="1"/>
+      <node ref="J1" pin="G22"/>
+    </net>
+    <net code="25" name="/C3_OUT_N">
+      <node ref="R50" pin="2"/>
+      <node ref="U20" pin="1"/>
+      <node ref="J1" pin="G21"/>
+    </net>
+    <net code="26" name="/C4_OUT_P">
+      <node ref="U22" pin="8"/>
+      <node ref="R55" pin="1"/>
+      <node ref="J1" pin="H20"/>
+    </net>
+    <net code="27" name="/D2_OUT_N">
+      <node ref="J1" pin="D26"/>
+      <node ref="U26" pin="1"/>
+      <node ref="R65" pin="2"/>
+    </net>
+    <net code="28" name="/D1">
+      <node ref="R95" pin="2"/>
+      <node ref="J2" pin="B20"/>
+      <node ref="U23" pin="3"/>
+      <node ref="R58" pin="2"/>
+      <node ref="C78" pin="2"/>
+      <node ref="C132" pin="2"/>
+    </net>
+    <net code="29" name="/D1_OUT_P">
+      <node ref="J1" pin="C26"/>
+      <node ref="R60" pin="1"/>
+      <node ref="U24" pin="8"/>
+    </net>
+    <net code="30" name="/D1_OUT_N">
+      <node ref="U24" pin="1"/>
+      <node ref="J1" pin="C27"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="31" name="/D2">
+      <node ref="R63" pin="2"/>
+      <node ref="J2" pin="B17"/>
+      <node ref="R96" pin="2"/>
+      <node ref="C85" pin="2"/>
+      <node ref="C133" pin="2"/>
+      <node ref="U25" pin="3"/>
+    </net>
+    <net code="32" name="/D2_OUT_P">
+      <node ref="U26" pin="8"/>
+      <node ref="J1" pin="D27"/>
+      <node ref="R65" pin="1"/>
+    </net>
+    <net code="33" name="/D3">
+      <node ref="C134" pin="2"/>
+      <node ref="R97" pin="2"/>
+      <node ref="J2" pin="B15"/>
+      <node ref="C92" pin="2"/>
+      <node ref="U27" pin="3"/>
+      <node ref="R68" pin="2"/>
+    </net>
+    <net code="34" name="/D3_OUT_P">
+      <node ref="J1" pin="G27"/>
+      <node ref="R70" pin="1"/>
+      <node ref="U28" pin="8"/>
+    </net>
+    <net code="35" name="/D3_OUT_N">
+      <node ref="U28" pin="1"/>
+      <node ref="J1" pin="G28"/>
+      <node ref="R70" pin="2"/>
+    </net>
+    <net code="36" name="/C1">
+      <node ref="R91" pin="2"/>
+      <node ref="C128" pin="2"/>
+      <node ref="U15" pin="3"/>
+      <node ref="R38" pin="2"/>
+      <node ref="C50" pin="2"/>
+      <node ref="J2" pin="B2"/>
+    </net>
+    <net code="37" name="/A1">
+      <node ref="C136" pin="2"/>
+      <node ref="R99" pin="2"/>
+      <node ref="U34" pin="3"/>
+      <node ref="R81" pin="2"/>
+      <node ref="C114" pin="2"/>
+      <node ref="J2" pin="A2"/>
+    </net>
+    <net code="38" name="/A2">
+      <node ref="C121" pin="2"/>
+      <node ref="J2" pin="A4"/>
+      <node ref="R84" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="39" name="/A3">
+      <node ref="J2" pin="A6"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="R85" pin="2"/>
+      <node ref="C122" pin="2"/>
+    </net>
+    <net code="40" name="/A4">
+      <node ref="U5" pin="3"/>
+      <node ref="R86" pin="2"/>
+      <node ref="C123" pin="2"/>
+      <node ref="J2" pin="A9"/>
+      <node ref="R13" pin="2"/>
+      <node ref="C15" pin="2"/>
+    </net>
+    <net code="41" name="/B1">
+      <node ref="R18" pin="2"/>
+      <node ref="C124" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="R87" pin="2"/>
+      <node ref="U7" pin="3"/>
+      <node ref="J2" pin="A20"/>
+    </net>
+    <net code="42" name="/B2">
+      <node ref="C29" pin="2"/>
+      <node ref="J2" pin="A17"/>
+      <node ref="R23" pin="2"/>
+      <node ref="U9" pin="3"/>
+      <node ref="R88" pin="2"/>
+      <node ref="C125" pin="2"/>
+    </net>
+    <net code="43" name="/B3">
+      <node ref="R28" pin="2"/>
+      <node ref="J2" pin="A15"/>
+      <node ref="R89" pin="2"/>
+      <node ref="C126" pin="2"/>
+      <node ref="U11" pin="3"/>
+      <node ref="C36" pin="2"/>
+    </net>
+    <net code="44" name="/B4">
+      <node ref="J2" pin="A11"/>
+      <node ref="R33" pin="2"/>
+      <node ref="C43" pin="2"/>
+      <node ref="U13" pin="3"/>
+      <node ref="C127" pin="2"/>
+      <node ref="R90" pin="2"/>
+    </net>
+    <net code="45" name="/C2">
+      <node ref="J2" pin="B4"/>
+      <node ref="U17" pin="3"/>
+      <node ref="R43" pin="2"/>
+      <node ref="C57" pin="2"/>
+      <node ref="C129" pin="2"/>
+      <node ref="R92" pin="2"/>
+    </net>
+    <net code="46" name="/C3">
+      <node ref="C130" pin="2"/>
+      <node ref="R93" pin="2"/>
+      <node ref="U19" pin="3"/>
+      <node ref="J2" pin="B6"/>
+      <node ref="C64" pin="2"/>
+      <node ref="R48" pin="2"/>
+    </net>
+    <net code="47" name="/C4">
+      <node ref="U21" pin="3"/>
+      <node ref="R53" pin="2"/>
+      <node ref="C71" pin="2"/>
+      <node ref="J2" pin="B10"/>
+      <node ref="C131" pin="2"/>
+      <node ref="R94" pin="2"/>
+    </net>
+    <net code="48" name="/C4_OUT_N">
+      <node ref="J1" pin="H19"/>
+      <node ref="R55" pin="2"/>
+      <node ref="U22" pin="1"/>
+    </net>
+    <net code="49" name="GND">
+      <node ref="C89" pin="2"/>
+      <node ref="U26" pin="2"/>
+      <node ref="U12" pin="2"/>
+      <node ref="C88" pin="2"/>
+      <node ref="R61" pin="1"/>
+      <node ref="U34" pin="5"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="U25" pin="5"/>
+      <node ref="C31" pin="2"/>
+      <node ref="U12" pin="3"/>
+      <node ref="U24" pin="3"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U11" pin="5"/>
+      <node ref="U24" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R59" pin="2"/>
+      <node ref="R79" pin="1"/>
+      <node ref="C118" pin="2"/>
+      <node ref="C84" pin="2"/>
+      <node ref="C83" pin="2"/>
+      <node ref="C41" pin="2"/>
+      <node ref="R64" pin="2"/>
+      <node ref="U26" pin="3"/>
+      <node ref="R29" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C90" pin="2"/>
+      <node ref="C91" pin="2"/>
+      <node ref="R26" pin="1"/>
+      <node ref="C40" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C93" pin="2"/>
+      <node ref="C94" pin="2"/>
+      <node ref="C95" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="U10" pin="3"/>
+      <node ref="C117" pin="2"/>
+      <node ref="U30" pin="3"/>
+      <node ref="J2" pin="B18"/>
+      <node ref="J2" pin="B19"/>
+      <node ref="R14" pin="2"/>
+      <node ref="C105" pin="2"/>
+      <node ref="U7" pin="5"/>
+      <node ref="C116" pin="2"/>
+      <node ref="R69" pin="2"/>
+      <node ref="U6" pin="2"/>
+      <node ref="U6" pin="3"/>
+      <node ref="C33" pin="2"/>
+      <node ref="U9" pin="5"/>
+      <node ref="U28" pin="2"/>
+      <node ref="U28" pin="3"/>
+      <node ref="C86" pin="2"/>
+      <node ref="C87" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U10" pin="2"/>
+      <node ref="C115" pin="2"/>
+      <node ref="U27" pin="5"/>
+      <node ref="R24" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C98" pin="2"/>
+      <node ref="C97" pin="2"/>
+      <node ref="C96" pin="2"/>
+      <node ref="R21" pin="1"/>
+      <node ref="R66" pin="1"/>
+      <node ref="C68" pin="2"/>
+      <node ref="C53" pin="2"/>
+      <node ref="C52" pin="2"/>
+      <node ref="U19" pin="5"/>
+      <node ref="U16" pin="3"/>
+      <node ref="U16" pin="2"/>
+      <node ref="R46" pin="1"/>
+      <node ref="C63" pin="2"/>
+      <node ref="R39" pin="2"/>
+      <node ref="C67" pin="2"/>
+      <node ref="C66" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C62" pin="2"/>
+      <node ref="C65" pin="2"/>
+      <node ref="U35" pin="3"/>
+      <node ref="U35" pin="2"/>
+      <node ref="C51" pin="2"/>
+      <node ref="C70" pin="2"/>
+      <node ref="R41" pin="1"/>
+      <node ref="C61" pin="2"/>
+      <node ref="C58" pin="2"/>
+      <node ref="C59" pin="2"/>
+      <node ref="C69" pin="2"/>
+      <node ref="U17" pin="5"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U18" pin="3"/>
+      <node ref="C120" pin="2"/>
+      <node ref="U18" pin="2"/>
+      <node ref="R49" pin="2"/>
+      <node ref="U20" pin="2"/>
+      <node ref="R44" pin="2"/>
+      <node ref="C60" pin="2"/>
+      <node ref="U20" pin="3"/>
+      <node ref="C48" pin="2"/>
+      <node ref="C81" pin="2"/>
+      <node ref="C80" pin="2"/>
+      <node ref="R34" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C47" pin="2"/>
+      <node ref="C72" pin="2"/>
+      <node ref="C74" pin="2"/>
+      <node ref="C73" pin="2"/>
+      <node ref="U13" pin="5"/>
+      <node ref="U23" pin="5"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C39" pin="2"/>
+      <node ref="C37" pin="2"/>
+      <node ref="C46" pin="2"/>
+      <node ref="R56" pin="1"/>
+      <node ref="C82" pin="2"/>
+      <node ref="C49" pin="2"/>
+      <node ref="U14" pin="3"/>
+      <node ref="C119" pin="2"/>
+      <node ref="R82" pin="2"/>
+      <node ref="U14" pin="2"/>
+      <node ref="C79" pin="2"/>
+      <node ref="R51" pin="1"/>
+      <node ref="C76" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U15" pin="5"/>
+      <node ref="R54" pin="2"/>
+      <node ref="U22" pin="2"/>
+      <node ref="U22" pin="3"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C54" pin="2"/>
+      <node ref="C77" pin="2"/>
+      <node ref="C55" pin="2"/>
+      <node ref="C56" pin="2"/>
+      <node ref="R36" pin="1"/>
+      <node ref="U21" pin="5"/>
+      <node ref="C75" pin="2"/>
+      <node ref="C45" pin="2"/>
+      <node ref="C44" pin="2"/>
+      <node ref="J1" pin="D35"/>
+      <node ref="U32" pin="11"/>
+      <node ref="C110" pin="2"/>
+      <node ref="J1" pin="D28"/>
+      <node ref="C13" pin="2"/>
+      <node ref="J1" pin="G35"/>
+      <node ref="J1" pin="D25"/>
+      <node ref="C109" pin="2"/>
+      <node ref="J1" pin="G32"/>
+      <node ref="J1" pin="G29"/>
+      <node ref="J1" pin="G04"/>
+      <node ref="C14" pin="2"/>
+      <node ref="J1" pin="H27"/>
+      <node ref="J1" pin="H24"/>
+      <node ref="U32" pin="5"/>
+      <node ref="U32" pin="8"/>
+      <node ref="J1" pin="G08"/>
+      <node ref="J1" pin="G05"/>
+      <node ref="J1" pin="G26"/>
+      <node ref="J1" pin="G01"/>
+      <node ref="C108" pin="2"/>
+      <node ref="J1" pin="D39"/>
+      <node ref="J1" pin="D37"/>
+      <node ref="J1" pin="G23"/>
+      <node ref="C111" pin="2"/>
+      <node ref="J1" pin="G20"/>
+      <node ref="J1" pin="G17"/>
+      <node ref="U4" pin="3"/>
+      <node ref="J1" pin="G14"/>
+      <node ref="J1" pin="G11"/>
+      <node ref="U4" pin="2"/>
+      <node ref="J2" pin="B5"/>
+      <node ref="C16" pin="2"/>
+      <node ref="J2" pin="B9"/>
+      <node ref="J2" pin="B3"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="R77" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="J1" pin="C40"/>
+      <node ref="C4" pin="2"/>
+      <node ref="B3" pin="1"/>
+      <node ref="C140" pin="2"/>
+      <node ref="J1" pin="D10"/>
+      <node ref="J1" pin="C38"/>
+      <node ref="C102" pin="2"/>
+      <node ref="C107" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="J1" pin="D02"/>
+      <node ref="J1" pin="D03"/>
+      <node ref="J1" pin="D06"/>
+      <node ref="J1" pin="D07"/>
+      <node ref="C100" pin="2"/>
+      <node ref="J1" pin="C13"/>
+      <node ref="J1" pin="D13"/>
+      <node ref="C106" pin="2"/>
+      <node ref="U31" pin="7"/>
+      <node ref="U31" pin="3"/>
+      <node ref="J1" pin="C01"/>
+      <node ref="C142" pin="2"/>
+      <node ref="C141" pin="2"/>
+      <node ref="J1" pin="C04"/>
+      <node ref="J1" pin="C05"/>
+      <node ref="J1" pin="D16"/>
+      <node ref="J1" pin="C08"/>
+      <node ref="J1" pin="C09"/>
+      <node ref="C137" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="C139" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C138" pin="2"/>
+      <node ref="J2" pin="B16"/>
+      <node ref="J2" pin="A19"/>
+      <node ref="C19" pin="2"/>
+      <node ref="U29" pin="5"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="J2" pin="A3"/>
+      <node ref="J2" pin="B12"/>
+      <node ref="C103" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="U8" pin="3"/>
+      <node ref="U8" pin="2"/>
+      <node ref="R71" pin="1"/>
+      <node ref="C104" pin="2"/>
+      <node ref="J2" pin="B1"/>
+      <node ref="J1" pin="C24"/>
+      <node ref="J1" pin="D19"/>
+      <node ref="J1" pin="C36"/>
+      <node ref="J1" pin="C12"/>
+      <node ref="J2" pin="A5"/>
+      <node ref="J2" pin="A1"/>
+      <node ref="J1" pin="C16"/>
+      <node ref="J1" pin="C17"/>
+      <node ref="J1" pin="C20"/>
+      <node ref="J1" pin="C21"/>
+      <node ref="J1" pin="D22"/>
+      <node ref="J1" pin="C25"/>
+      <node ref="J1" pin="C28"/>
+      <node ref="J1" pin="C29"/>
+      <node ref="J2" pin="A10"/>
+      <node ref="J1" pin="C32"/>
+      <node ref="J1" pin="C33"/>
+      <node ref="J1" pin="C34"/>
+      <node ref="J2" pin="A12"/>
+      <node ref="J2" pin="A16"/>
+      <node ref="J2" pin="A18"/>
+      <node ref="U5" pin="5"/>
+      <node ref="J1" pin="H09"/>
+      <node ref="J1" pin="G38"/>
+      <node ref="J1" pin="G40"/>
+      <node ref="J1" pin="H03"/>
+      <node ref="R78" pin="2"/>
+      <node ref="J1" pin="H06"/>
+      <node ref="R74" pin="2"/>
+      <node ref="J1" pin="H12"/>
+      <node ref="J1" pin="H15"/>
+      <node ref="U33" pin="5"/>
+      <node ref="J1" pin="H18"/>
+      <node ref="J1" pin="H39"/>
+      <node ref="C112" pin="2"/>
+      <node ref="J1" pin="H30"/>
+      <node ref="U30" pin="2"/>
+      <node ref="J1" pin="H33"/>
+      <node ref="J1" pin="H21"/>
+      <node ref="J1" pin="H36"/>
+      <node ref="U33" pin="8"/>
+      <node ref="C113" pin="2"/>
+      <node ref="R16" pin="1"/>
+      <node ref="U33" pin="11"/>
+    </net>
+    <net code="50" name="TIA_REF">
+      <node ref="C122" pin="1"/>
+      <node ref="C135" pin="1"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U19" pin="4"/>
+      <node ref="U11" pin="4"/>
+      <node ref="C124" pin="1"/>
+      <node ref="R84" pin="1"/>
+      <node ref="C121" pin="1"/>
+      <node ref="C65" pin="1"/>
+      <node ref="R96" pin="1"/>
+      <node ref="U27" pin="4"/>
+      <node ref="C125" pin="1"/>
+      <node ref="C115" pin="1"/>
+      <node ref="C51" pin="1"/>
+      <node ref="U32" pin="10"/>
+      <node ref="R87" pin="1"/>
+      <node ref="C37" pin="1"/>
+      <node ref="R85" pin="1"/>
+      <node ref="C130" pin="1"/>
+      <node ref="U32" pin="9"/>
+      <node ref="C129" pin="1"/>
+      <node ref="R92" pin="1"/>
+      <node ref="C134" pin="1"/>
+      <node ref="C72" pin="1"/>
+      <node ref="U13" pin="4"/>
+      <node ref="C132" pin="1"/>
+      <node ref="U29" pin="4"/>
+      <node ref="C93" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="R93" pin="1"/>
+      <node ref="R95" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="R97" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="C79" pin="1"/>
+      <node ref="C131" pin="1"/>
+      <node ref="R94" pin="1"/>
+      <node ref="R89" pin="1"/>
+      <node ref="C30" pin="1"/>
+      <node ref="C136" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="R99" pin="1"/>
+      <node ref="C58" pin="1"/>
+      <node ref="U21" pin="4"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C126" pin="1"/>
+      <node ref="U17" pin="4"/>
+      <node ref="C44" pin="1"/>
+      <node ref="C111" pin="1"/>
+      <node ref="C127" pin="1"/>
+      <node ref="C86" pin="1"/>
+      <node ref="R90" pin="1"/>
+      <node ref="R98" pin="1"/>
+      <node ref="U15" pin="4"/>
+      <node ref="C133" pin="1"/>
+      <node ref="R86" pin="1"/>
+      <node ref="U3" pin="4"/>
+      <node ref="C128" pin="1"/>
+      <node ref="R91" pin="1"/>
+      <node ref="C123" pin="1"/>
+      <node ref="U7" pin="4"/>
+      <node ref="R88" pin="1"/>
+      <node ref="C100" pin="1"/>
+      <node ref="U9" pin="4"/>
+      <node ref="U23" pin="4"/>
+      <node ref="U25" pin="4"/>
+      <node ref="U34" pin="4"/>
+    </net>
+    <net code="51" name="COMP_REF">
+      <node ref="U30" pin="4"/>
+      <node ref="C89" pin="1"/>
+      <node ref="U33" pin="10"/>
+      <node ref="U26" pin="4"/>
+      <node ref="C118" pin="1"/>
+      <node ref="C82" pin="1"/>
+      <node ref="C113" pin="1"/>
+      <node ref="U24" pin="4"/>
+      <node ref="U33" pin="9"/>
+      <node ref="C103" pin="1"/>
+      <node ref="C68" pin="1"/>
+      <node ref="U35" pin="4"/>
+      <node ref="C96" pin="1"/>
+      <node ref="U20" pin="4"/>
+      <node ref="U22" pin="4"/>
+      <node ref="U28" pin="4"/>
+      <node ref="C75" pin="1"/>
+      <node ref="C47" pin="1"/>
+      <node ref="U6" pin="4"/>
+      <node ref="C61" pin="1"/>
+      <node ref="C54" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C40" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="U8" pin="4"/>
+      <node ref="U4" pin="4"/>
+      <node ref="U18" pin="4"/>
+      <node ref="U12" pin="4"/>
+      <node ref="U14" pin="4"/>
+      <node ref="C33" pin="1"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U2" pin="4"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U16" pin="4"/>
+    </net>
+    <net code="52" name="3.3V">
+      <node ref="U9" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U9" pin="8"/>
+      <node ref="C87" pin="1"/>
+      <node ref="C88" pin="1"/>
+      <node ref="U28" pin="6"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U28" pin="7"/>
+      <node ref="C34" pin="1"/>
+      <node ref="C116" pin="1"/>
+      <node ref="C117" pin="1"/>
+      <node ref="C35" pin="1"/>
+      <node ref="C95" pin="1"/>
+      <node ref="C94" pin="1"/>
+      <node ref="R67" pin="1"/>
+      <node ref="R22" pin="1"/>
+      <node ref="C97" pin="1"/>
+      <node ref="C98" pin="1"/>
+      <node ref="U27" pin="8"/>
+      <node ref="U27" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U10" pin="7"/>
+      <node ref="U10" pin="6"/>
+      <node ref="U24" pin="7"/>
+      <node ref="U24" pin="6"/>
+      <node ref="U11" pin="1"/>
+      <node ref="U11" pin="8"/>
+      <node ref="R27" pin="1"/>
+      <node ref="C91" pin="1"/>
+      <node ref="C90" pin="1"/>
+      <node ref="U26" pin="6"/>
+      <node ref="R80" pin="1"/>
+      <node ref="U26" pin="7"/>
+      <node ref="U34" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C32" pin="1"/>
+      <node ref="U12" pin="7"/>
+      <node ref="U12" pin="6"/>
+      <node ref="U34" pin="8"/>
+      <node ref="C41" pin="1"/>
+      <node ref="C42" pin="1"/>
+      <node ref="R62" pin="1"/>
+      <node ref="U25" pin="8"/>
+      <node ref="U25" pin="1"/>
+      <node ref="U4" pin="7"/>
+      <node ref="C110" pin="1"/>
+      <node ref="U32" pin="1"/>
+      <node ref="U4" pin="6"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="R76" pin="1"/>
+      <node ref="U33" pin="1"/>
+      <node ref="U33" pin="2"/>
+      <node ref="U33" pin="3"/>
+      <node ref="U33" pin="6"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C112" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="U32" pin="6"/>
+      <node ref="U32" pin="3"/>
+      <node ref="U32" pin="2"/>
+      <node ref="C21" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U3" pin="8"/>
+      <node ref="U5" pin="8"/>
+      <node ref="U5" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="U6" pin="6"/>
+      <node ref="U6" pin="7"/>
+      <node ref="R7" pin="1"/>
+      <node ref="U30" pin="6"/>
+      <node ref="R17" pin="1"/>
+      <node ref="U30" pin="7"/>
+      <node ref="R72" pin="1"/>
+      <node ref="U8" pin="6"/>
+      <node ref="U8" pin="7"/>
+      <node ref="U29" pin="8"/>
+      <node ref="U29" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C104" pin="1"/>
+      <node ref="U7" pin="1"/>
+      <node ref="U7" pin="8"/>
+      <node ref="C105" pin="1"/>
+      <node ref="C101" pin="1"/>
+      <node ref="C102" pin="1"/>
+      <node ref="C107" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U31" pin="5"/>
+      <node ref="U31" pin="6"/>
+      <node ref="C25" pin="1"/>
+      <node ref="U22" pin="6"/>
+      <node ref="C56" pin="1"/>
+      <node ref="C55" pin="1"/>
+      <node ref="C77" pin="1"/>
+      <node ref="C76" pin="1"/>
+      <node ref="U22" pin="7"/>
+      <node ref="U2" pin="7"/>
+      <node ref="C7" pin="1"/>
+      <node ref="R37" pin="1"/>
+      <node ref="C67" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U35" pin="7"/>
+      <node ref="C45" pin="1"/>
+      <node ref="U2" pin="6"/>
+      <node ref="U15" pin="8"/>
+      <node ref="U15" pin="1"/>
+      <node ref="R52" pin="1"/>
+      <node ref="U35" pin="6"/>
+      <node ref="C46" pin="1"/>
+      <node ref="U21" pin="8"/>
+      <node ref="U21" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="C70" pin="1"/>
+      <node ref="C69" pin="1"/>
+      <node ref="C120" pin="1"/>
+      <node ref="U18" pin="7"/>
+      <node ref="U20" pin="6"/>
+      <node ref="U20" pin="7"/>
+      <node ref="U18" pin="6"/>
+      <node ref="U17" pin="1"/>
+      <node ref="C59" pin="1"/>
+      <node ref="C60" pin="1"/>
+      <node ref="U17" pin="8"/>
+      <node ref="U19" pin="1"/>
+      <node ref="U16" pin="6"/>
+      <node ref="U19" pin="8"/>
+      <node ref="U16" pin="7"/>
+      <node ref="C52" pin="1"/>
+      <node ref="C53" pin="1"/>
+      <node ref="C62" pin="1"/>
+      <node ref="C63" pin="1"/>
+      <node ref="C119" pin="1"/>
+      <node ref="C66" pin="1"/>
+      <node ref="R47" pin="1"/>
+      <node ref="C48" pin="1"/>
+      <node ref="U23" pin="8"/>
+      <node ref="U13" pin="1"/>
+      <node ref="C73" pin="1"/>
+      <node ref="C74" pin="1"/>
+      <node ref="C84" pin="1"/>
+      <node ref="C49" pin="1"/>
+      <node ref="U13" pin="8"/>
+      <node ref="R57" pin="1"/>
+      <node ref="C39" pin="1"/>
+      <node ref="R32" pin="1"/>
+      <node ref="C83" pin="1"/>
+      <node ref="C38" pin="1"/>
+      <node ref="C81" pin="1"/>
+      <node ref="U14" pin="7"/>
+      <node ref="C80" pin="1"/>
+      <node ref="U14" pin="6"/>
+      <node ref="U23" pin="1"/>
+    </net>
+    <net code="53" name="/Channel_A1/TIA_FB">
+      <node ref="U34" pin="2"/>
+      <node ref="C114" pin="1"/>
+      <node ref="R81" pin="1"/>
+    </net>
+    <net code="54" name="/Channel_A1/TIA_OUT">
+      <node ref="U34" pin="7"/>
+      <node ref="R82" pin="1"/>
+      <node ref="U35" pin="5"/>
+    </net>
+    <net code="55" name="Net-(R79-Pad2)">
+      <node ref="U34" pin="6"/>
+      <node ref="R80" pin="2"/>
+      <node ref="R79" pin="2"/>
+    </net>
+    <net code="56" name="/Channel_A2/TIA_OUT">
+      <node ref="U2" pin="5"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="57" name="Net-(R1-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="58" name="/Channel_A2/TIA_FB">
+      <node ref="U1" pin="2"/>
+      <node ref="R3" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="59" name="/Channel_A3/TIA_OUT">
+      <node ref="U3" pin="7"/>
+      <node ref="U4" pin="5"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="60" name="Net-(R6-Pad2)">
+      <node ref="U3" pin="6"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="61" name="/Channel_A3/TIA_FB">
+      <node ref="U3" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="62" name="/Channel_A4/TIA_OUT">
+      <node ref="U6" pin="5"/>
+      <node ref="U5" pin="7"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="63" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="64" name="/Channel_A4/TIA_FB">
+      <node ref="U5" pin="2"/>
+      <node ref="C15" pin="1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="65" name="Net-(J1-PadG12)">
+      <node ref="J1" pin="G12"/>
+    </net>
+    <net code="66" name="Net-(J1-PadG13)">
+      <node ref="J1" pin="G13"/>
+    </net>
+    <net code="67" name="Net-(J1-PadG18)">
+      <node ref="J1" pin="G18"/>
+    </net>
+    <net code="68" name="Net-(J1-PadG19)">
+      <node ref="J1" pin="G19"/>
+    </net>
+    <net code="69" name="Net-(J1-PadG24)">
+      <node ref="J1" pin="G24"/>
+    </net>
+    <net code="70" name="Net-(J1-PadG25)">
+      <node ref="J1" pin="G25"/>
+    </net>
+    <net code="71" name="Net-(J1-PadG30)">
+      <node ref="J1" pin="G30"/>
+    </net>
+    <net code="72" name="Net-(J1-PadG31)">
+      <node ref="J1" pin="G31"/>
+    </net>
+    <net code="73" name="Net-(J1-PadG33)">
+      <node ref="J1" pin="G33"/>
+    </net>
+    <net code="74" name="Net-(J1-PadG34)">
+      <node ref="J1" pin="G34"/>
+    </net>
+    <net code="75" name="Net-(J1-PadD36)">
+      <node ref="J1" pin="D36"/>
+    </net>
+    <net code="76" name="Net-(J1-PadD24)">
+      <node ref="J1" pin="D24"/>
+    </net>
+    <net code="77" name="Net-(J1-PadD29)">
+      <node ref="J1" pin="D29"/>
+    </net>
+    <net code="78" name="Net-(J1-PadD30)">
+      <node ref="J1" pin="D30"/>
+    </net>
+    <net code="79" name="Net-(J1-PadD31)">
+      <node ref="J1" pin="D31"/>
+    </net>
+    <net code="80" name="Net-(J1-PadD32)">
+      <node ref="J1" pin="D32"/>
+    </net>
+    <net code="81" name="Net-(J1-PadD33)">
+      <node ref="J1" pin="D33"/>
+    </net>
+    <net code="82" name="Net-(J1-PadD34)">
+      <node ref="J1" pin="D34"/>
+    </net>
+    <net code="83" name="Net-(J1-PadD38)">
+      <node ref="J1" pin="D38"/>
+    </net>
+    <net code="84" name="Net-(J1-PadD40)">
+      <node ref="J1" pin="D40"/>
+    </net>
+    <net code="85" name="Net-(J1-PadG02)">
+      <node ref="J1" pin="G02"/>
+    </net>
+    <net code="86" name="Net-(J1-PadG03)">
+      <node ref="J1" pin="G03"/>
+    </net>
+    <net code="87" name="Net-(J1-PadG06)">
+      <node ref="J1" pin="G06"/>
+    </net>
+    <net code="88" name="Net-(J1-PadG07)">
+      <node ref="J1" pin="G07"/>
+    </net>
+    <net code="89" name="Net-(J1-PadH34)">
+      <node ref="J1" pin="H34"/>
+    </net>
+    <net code="90" name="Net-(J1-PadH22)">
+      <node ref="J1" pin="H22"/>
+    </net>
+    <net code="91" name="Net-(J1-PadH23)">
+      <node ref="J1" pin="H23"/>
+    </net>
+    <net code="92" name="Net-(J1-PadH25)">
+      <node ref="J1" pin="H25"/>
+    </net>
+    <net code="93" name="Net-(J1-PadH26)">
+      <node ref="J1" pin="H26"/>
+    </net>
+    <net code="94" name="Net-(J1-PadH31)">
+      <node ref="J1" pin="H31"/>
+    </net>
+    <net code="95" name="Net-(J1-PadH32)">
+      <node ref="J1" pin="H32"/>
+    </net>
+    <net code="96" name="Net-(J1-PadH35)">
+      <node ref="J1" pin="H35"/>
+    </net>
+    <net code="97" name="Net-(J1-PadH37)">
+      <node ref="J1" pin="H37"/>
+    </net>
+    <net code="98" name="Net-(J1-PadH38)">
+      <node ref="J1" pin="H38"/>
+    </net>
+    <net code="99" name="Net-(J1-PadH40)">
+      <node ref="J1" pin="H40"/>
+    </net>
+    <net code="100" name="Net-(J1-PadG36)">
+      <node ref="J1" pin="G36"/>
+    </net>
+    <net code="101" name="Net-(J1-PadG37)">
+      <node ref="J1" pin="G37"/>
+    </net>
+    <net code="102" name="Net-(J1-PadG39)">
+      <node ref="J1" pin="G39"/>
+    </net>
+    <net code="103" name="Net-(J1-PadH01)">
+      <node ref="J1" pin="H01"/>
+    </net>
+    <net code="104" name="Net-(J1-PadH02)">
+      <node ref="J1" pin="H02"/>
+    </net>
+    <net code="105" name="Net-(J1-PadH04)">
+      <node ref="J1" pin="H04"/>
+    </net>
+    <net code="106" name="Net-(J1-PadH05)">
+      <node ref="J1" pin="H05"/>
+    </net>
+    <net code="107" name="Net-(J1-PadH10)">
+      <node ref="J1" pin="H10"/>
+    </net>
+    <net code="108" name="Net-(J1-PadH11)">
+      <node ref="J1" pin="H11"/>
+    </net>
+    <net code="109" name="Net-(J1-PadH13)">
+      <node ref="J1" pin="H13"/>
+    </net>
+    <net code="110" name="Net-(J1-PadH14)">
+      <node ref="J1" pin="H14"/>
+    </net>
+    <net code="111" name="Net-(J1-PadC02)">
+      <node ref="J1" pin="C02"/>
+    </net>
+    <net code="112" name="Net-(J1-PadC03)">
+      <node ref="J1" pin="C03"/>
+    </net>
+    <net code="113" name="Net-(J1-PadC06)">
+      <node ref="J1" pin="C06"/>
+    </net>
+    <net code="114" name="Net-(J1-PadC07)">
+      <node ref="J1" pin="C07"/>
+    </net>
+    <net code="115" name="Net-(J1-PadC39)">
+      <node ref="J1" pin="C39"/>
+    </net>
+    <net code="116" name="Net-(J1-PadD01)">
+      <node ref="J1" pin="D01"/>
+    </net>
+    <net code="117" name="Net-(J1-PadD04)">
+      <node ref="J1" pin="D04"/>
+    </net>
+    <net code="118" name="Net-(J1-PadD05)">
+      <node ref="J1" pin="D05"/>
+    </net>
+    <net code="119" name="Net-(J1-PadD08)">
+      <node ref="J1" pin="D08"/>
+    </net>
+    <net code="120" name="Net-(J1-PadD09)">
+      <node ref="J1" pin="D09"/>
+    </net>
+    <net code="121" name="Net-(J1-PadD17)">
+      <node ref="J1" pin="D17"/>
+    </net>
+    <net code="122" name="Net-(J1-PadD18)">
+      <node ref="J1" pin="D18"/>
+    </net>
+    <net code="123" name="Net-(J1-PadD23)">
+      <node ref="J1" pin="D23"/>
+    </net>
+    <net code="124" name="Net-(J1-PadC18)">
+      <node ref="J1" pin="C18"/>
+    </net>
+    <net code="125" name="Net-(J1-PadC19)">
+      <node ref="J1" pin="C19"/>
+    </net>
+    <net code="126" name="Net-(J1-PadC30)">
+      <node ref="J1" pin="C30"/>
+    </net>
+    <net code="127" name="Net-(J1-PadC31)">
+      <node ref="J1" pin="C31"/>
+    </net>
+    <net code="128" name="Net-(J1-PadC35)">
+      <node ref="J1" pin="C35"/>
+    </net>
+    <net code="129" name="Net-(J1-PadC37)">
+      <node ref="J1" pin="C37"/>
+    </net>
+    <net code="130" name="/Channel_B1/TIA_OUT">
+      <node ref="R19" pin="1"/>
+      <node ref="U8" pin="5"/>
+      <node ref="U7" pin="7"/>
+    </net>
+    <net code="131" name="Net-(R16-Pad2)">
+      <node ref="U7" pin="6"/>
+      <node ref="R16" pin="2"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="132" name="/Channel_B1/TIA_FB">
+      <node ref="R18" pin="1"/>
+      <node ref="C22" pin="1"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="133" name="/Channel_B2/TIA_OUT">
+      <node ref="U9" pin="7"/>
+      <node ref="R24" pin="1"/>
+      <node ref="U10" pin="5"/>
+    </net>
+    <net code="134" name="Net-(R21-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="135" name="/Channel_B2/TIA_FB">
+      <node ref="R23" pin="1"/>
+      <node ref="C29" pin="1"/>
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="136" name="Net-(R26-Pad2)">
+      <node ref="R27" pin="2"/>
+      <node ref="U11" pin="6"/>
+      <node ref="R26" pin="2"/>
+    </net>
+    <net code="137" name="/Channel_B3/TIA_OUT">
+      <node ref="R29" pin="1"/>
+      <node ref="U12" pin="5"/>
+      <node ref="U11" pin="7"/>
+    </net>
+    <net code="138" name="/Channel_B3/TIA_FB">
+      <node ref="U11" pin="2"/>
+      <node ref="R28" pin="1"/>
+      <node ref="C36" pin="1"/>
+    </net>
+    <net code="139" name="/Channel_B4/TIA_OUT">
+      <node ref="R34" pin="1"/>
+      <node ref="U14" pin="5"/>
+      <node ref="U13" pin="7"/>
+    </net>
+    <net code="140" name="Net-(R31-Pad2)">
+      <node ref="R32" pin="2"/>
+      <node ref="R31" pin="2"/>
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="141" name="/Channel_B4/TIA_FB">
+      <node ref="U13" pin="2"/>
+      <node ref="C43" pin="1"/>
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="142" name="/Channel_C1/TIA_FB">
+      <node ref="C50" pin="1"/>
+      <node ref="R38" pin="1"/>
+      <node ref="U15" pin="2"/>
+    </net>
+    <net code="143" name="Net-(R36-Pad2)">
+      <node ref="R36" pin="2"/>
+      <node ref="R37" pin="2"/>
+      <node ref="U15" pin="6"/>
+    </net>
+    <net code="144" name="/Channel_C1/TIA_OUT">
+      <node ref="U15" pin="7"/>
+      <node ref="U16" pin="5"/>
+      <node ref="R39" pin="1"/>
+    </net>
+    <net code="145" name="/Channel_C2/TIA_OUT">
+      <node ref="U17" pin="7"/>
+      <node ref="R44" pin="1"/>
+      <node ref="U18" pin="5"/>
+    </net>
+    <net code="146" name="Net-(R41-Pad2)">
+      <node ref="U17" pin="6"/>
+      <node ref="R41" pin="2"/>
+      <node ref="R42" pin="2"/>
+    </net>
+    <net code="147" name="/Channel_C2/TIA_FB">
+      <node ref="U17" pin="2"/>
+      <node ref="C57" pin="1"/>
+      <node ref="R43" pin="1"/>
+    </net>
+    <net code="148" name="/Channel_C3/TIA_OUT">
+      <node ref="U20" pin="5"/>
+      <node ref="R49" pin="1"/>
+      <node ref="U19" pin="7"/>
+    </net>
+    <net code="149" name="Net-(R46-Pad2)">
+      <node ref="U19" pin="6"/>
+      <node ref="R46" pin="2"/>
+      <node ref="R47" pin="2"/>
+    </net>
+    <net code="150" name="/Channel_C3/TIA_FB">
+      <node ref="R48" pin="1"/>
+      <node ref="C64" pin="1"/>
+      <node ref="U19" pin="2"/>
+    </net>
+    <net code="151" name="/Channel_C4/TIA_OUT">
+      <node ref="U22" pin="5"/>
+      <node ref="R54" pin="1"/>
+      <node ref="U21" pin="7"/>
+    </net>
+    <net code="152" name="Net-(R51-Pad2)">
+      <node ref="R52" pin="2"/>
+      <node ref="R51" pin="2"/>
+      <node ref="U21" pin="6"/>
+    </net>
+    <net code="153" name="/Channel_C4/TIA_FB">
+      <node ref="U21" pin="2"/>
+      <node ref="C71" pin="1"/>
+      <node ref="R53" pin="1"/>
+    </net>
+    <net code="154" name="/Channel_D1/TIA_FB">
+      <node ref="C78" pin="1"/>
+      <node ref="R58" pin="1"/>
+      <node ref="U23" pin="2"/>
+    </net>
+    <net code="155" name="Net-(R56-Pad2)">
+      <node ref="R56" pin="2"/>
+      <node ref="R57" pin="2"/>
+      <node ref="U23" pin="6"/>
+    </net>
+    <net code="156" name="/Channel_D1/TIA_OUT">
+      <node ref="U24" pin="5"/>
+      <node ref="U23" pin="7"/>
+      <node ref="R59" pin="1"/>
+    </net>
+    <net code="157" name="/Channel_D2/TIA_OUT">
+      <node ref="R64" pin="1"/>
+      <node ref="U25" pin="7"/>
+      <node ref="U26" pin="5"/>
+    </net>
+    <net code="158" name="Net-(R61-Pad2)">
+      <node ref="R62" pin="2"/>
+      <node ref="U25" pin="6"/>
+      <node ref="R61" pin="2"/>
+    </net>
+    <net code="159" name="/Channel_D2/TIA_FB">
+      <node ref="U25" pin="2"/>
+      <node ref="R63" pin="1"/>
+      <node ref="C85" pin="1"/>
+    </net>
+    <net code="160" name="/Channel_D3/TIA_OUT">
+      <node ref="U28" pin="5"/>
+      <node ref="R69" pin="1"/>
+      <node ref="U27" pin="7"/>
+    </net>
+    <net code="161" name="Net-(R66-Pad2)">
+      <node ref="U27" pin="6"/>
+      <node ref="R66" pin="2"/>
+      <node ref="R67" pin="2"/>
+    </net>
+    <net code="162" name="/Channel_D3/TIA_FB">
+      <node ref="U27" pin="2"/>
+      <node ref="R68" pin="1"/>
+      <node ref="C92" pin="1"/>
+    </net>
+    <net code="163" name="/Channel_D4/TIA_OUT">
+      <node ref="U29" pin="7"/>
+      <node ref="R74" pin="1"/>
+      <node ref="U30" pin="5"/>
+    </net>
+    <net code="164" name="Net-(R71-Pad2)">
+      <node ref="U29" pin="6"/>
+      <node ref="R71" pin="2"/>
+      <node ref="R72" pin="2"/>
+    </net>
+    <net code="165" name="/Channel_D4/TIA_FB">
+      <node ref="R73" pin="1"/>
+      <node ref="C99" pin="1"/>
+      <node ref="U29" pin="2"/>
+    </net>
+    <net code="166" name="IN_PWR">
+      <node ref="B2" pin="1"/>
+      <node ref="U31" pin="2"/>
+      <node ref="C106" pin="1"/>
+      <node ref="U31" pin="1"/>
+    </net>
+    <net code="167" name="HV">
+      <node ref="C139" pin="1"/>
+      <node ref="B1" pin="1"/>
+      <node ref="C138" pin="1"/>
+      <node ref="J2" pin="B14"/>
+      <node ref="J2" pin="B13"/>
+      <node ref="J2" pin="A8"/>
+      <node ref="J2" pin="A7"/>
+      <node ref="C141" pin="1"/>
+      <node ref="C142" pin="1"/>
+      <node ref="J2" pin="A14"/>
+      <node ref="J2" pin="A13"/>
+      <node ref="C137" pin="1"/>
+      <node ref="C140" pin="1"/>
+      <node ref="J2" pin="B7"/>
+      <node ref="J2" pin="B8"/>
+    </net>
+    <net code="168" name="Net-(R76-Pad2)">
+      <node ref="R76" pin="2"/>
+      <node ref="U31" pin="4"/>
+    </net>
+    <net code="169" name="Net-(U33-Pad4)">
+      <node ref="U33" pin="4"/>
+    </net>
+    <net code="170" name="Net-(C109-Pad1)">
+      <node ref="U33" pin="7"/>
+      <node ref="R78" pin="1"/>
+      <node ref="C109" pin="1"/>
+    </net>
+    <net code="171" name="Net-(U32-Pad4)">
+      <node ref="U32" pin="4"/>
+    </net>
+    <net code="172" name="Net-(C108-Pad1)">
+      <node ref="U32" pin="7"/>
+      <node ref="C108" pin="1"/>
+      <node ref="R77" pin="1"/>
+    </net>
+  </nets>
+</export>
