@@ -1,0 +1,33 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+----------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
+| Date         : Mon May  8 10:29:22 2023
+| Host         : DESKTOP-ADU5I7J running 64-bit major release  (build 9200)
+| Command      : report_utilization -file ./vivado_outputs/synth_util.rpt -hierarchical
+| Design       : ising_or_potts
+| Device       : 7k325tffg900-2
+| Design State : Synthesized
+----------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++--------------------+------------------------+------------+------------+---------+------+-------+--------+--------+------------+
+|      Instance      |         Module         | Total LUTs | Logic LUTs | LUTRAMs | SRLs |  FFs  | RAMB36 | RAMB18 | DSP Blocks |
++--------------------+------------------------+------------+------------+---------+------+-------+--------+--------+------------+
+| ising_or_potts     |                  (top) |      16402 |      11686 |       0 | 4716 | 18584 |     64 |      6 |          0 |
+|   (ising_or_potts) |                  (top) |       5476 |       5468 |       0 |    8 | 12428 |      0 |      2 |          0 |
+|   group1           |   piplined_energy_calc |       1605 |        428 |       0 | 1177 |  1432 |     16 |      1 |          0 |
+|   group2           | piplined_energy_calc_0 |       1620 |        443 |       0 | 1177 |  1561 |     16 |      1 |          0 |
+|   group3           | piplined_energy_calc_1 |       1608 |        431 |       0 | 1177 |  1426 |     16 |      1 |          0 |
+|   group4           | piplined_energy_calc_2 |       1621 |        444 |       0 | 1177 |  1593 |     16 |      1 |          0 |
+|   latches          |            latch_chain |       4474 |       4474 |       0 |    0 |   144 |      0 |      0 |          0 |
++--------------------+------------------------+------------+------------+---------+------+-------+--------+--------+------------+
+
+

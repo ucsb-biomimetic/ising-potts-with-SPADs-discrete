@@ -1,0 +1,297 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
+| Date         : Mon May  8 11:04:50 2023
+| Host         : DESKTOP-ADU5I7J running 64-bit major release  (build 9200)
+| Command      : report_timing -sort_by group -max_paths 100 -path_type summary -file ./vivado_outputs/post_route_timing.rpt
+| Design       : ising_or_potts
+| Device       : 7k325t-ffg900
+| Speed File   : -2  PRODUCTION 1.12 2017-02-17
+-----------------------------------------------------------------------------------------------------------------------------
+
+Timing Report
+
+Startpoint                     Endpoint                       Slack(ns)     
+----------------------------------------------------------------------------
+BUS4_buf_reg[1]/C              BUS4_reg[1]/D                  0.476         
+BUS3_buf_reg[7]/C              BUS3_reg[7]/D                  1.096         
+A_buf_reg[1]/C                 A_reg[1]/D                     1.143         
+BUS1_buf_reg[0]/C              BUS1_reg[0]/D                  1.235         
+BUS3_buf_reg[2]/C              BUS3_reg[2]/D                  1.274         
+BUS1_buf_reg[6]/C              BUS1_reg[6]/D                  1.330         
+BUS4_buf_reg[3]/C              BUS4_reg[3]/D                  1.367         
+BUS4_buf_reg[6]/C              BUS4_reg[6]/D                  1.452         
+BUS2_buf_reg[0]/C              BUS2_reg[0]/D                  1.555         
+BUS1_buf_reg[2]/C              BUS1_reg[2]/D                  1.669         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[6].state_reg[6]/D
+                                                              1.699         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[4].state_reg[4]/D
+                                                              1.723         
+BUS2_buf_reg[6]/C              BUS2_reg[6]/D                  1.777         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[7].state_reg[7]/D
+                                                              1.781         
+BUS1_buf_reg[7]/C              BUS1_reg[7]/D                  1.785         
+BUS4_buf_reg[4]/C              BUS4_reg[4]/D                  1.858         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[3].state_reg[3]/D
+                                                              1.868         
+BUS2_buf_reg[4]/C              BUS2_reg[4]/D                  1.900         
+BUS1_buf_reg[3]/C              BUS1_reg[3]/D                  1.972         
+BUS3_buf_reg[6]/C              BUS3_reg[6]/D                  2.000         
+BUS2_buf_reg[3]/C              BUS2_reg[3]/D                  2.009         
+BUS3_buf_reg[5]/C              BUS3_reg[5]/D                  2.028         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[0].state_reg[0]/D
+                                                              2.038         
+BUS2_buf_reg[7]/C              BUS2_reg[7]/D                  2.048         
+BUS4_buf_reg[7]/C              BUS4_reg[7]/D                  2.056         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[2].state_reg[2]/D
+                                                              2.058         
+BUS3_buf_reg[4]/C              BUS3_reg[4]/D                  2.062         
+BUS2_buf_reg[2]/C              BUS2_reg[2]/D                  2.093         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[5].state_reg[5]/D
+                                                              2.093         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[1].state_reg[1]/D
+                                                              2.116         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[8].state_reg[8]/D
+                                                              2.137         
+BUS1_buf_reg[5]/C              BUS1_reg[5]/D                  2.166         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[9].state_reg[9]/D
+                                                              2.196         
+BUS4_buf_reg[5]/C              BUS4_reg[5]/D                  2.300         
+clk100_reg/Q                   clk100_reg/D                   2.351         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[10].state_reg[10]/D
+                                                              2.485         
+BUS1_buf_reg[1]/C              BUS1_reg[1]/D                  2.517         
+BUS4_buf_reg[2]/C              BUS4_reg[2]/D                  2.619         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[142].state_reg[142]/D
+                                                              2.714         
+BUS1_buf_reg[4]/C              BUS1_reg[4]/D                  2.732         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[141].state_reg[141]/D
+                                                              2.736         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[140].state_reg[140]/D
+                                                              2.804         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[143].state_reg[143]/D
+                                                              2.824         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[2]/R        2.835         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[3]/R        2.835         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[5]/R        2.835         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[139].state_reg[139]/D
+                                                              2.949         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[0]/R        2.950         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[1]/R        2.950         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[4]/R        2.950         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[7]/R        2.950         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[16].state_reg[16]/D
+                                                              2.977         
+A_buf_reg[0]/C                 A_reg[0]/D                     2.997         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[6]/R        3.035         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[17].state_reg[17]/D
+                                                              3.040         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[5]/D        3.057         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[14].state_reg[14]/D
+                                                              3.063         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[12].state_reg[12]/D
+                                                              3.070         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[2]/D        3.077         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[3]/D        3.078         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[137].state_reg[137]/D
+                                                              3.146         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[18].state_reg[18]/D
+                                                              3.154         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[138].state_reg[138]/D
+                                                              3.163         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[15].state_reg[15]/D
+                                                              3.170         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[1]/D        3.189         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[4]/D        3.196         
+BUS2_buf_reg[5]/C              BUS2_reg[5]/D                  3.198         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[136].state_reg[136]/D
+                                                              3.201         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[6]/D        3.232         
+BUS3_buf_reg[0]/C              BUS3_reg[0]/D                  3.233         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[0]/D        3.253         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[11].state_reg[11]/D
+                                                              3.256         
+BUS4_buf_reg[0]/C              BUS4_reg[0]/D                  3.283         
+BUS2_buf_reg[1]/C              BUS2_reg[1]/D                  3.297         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[13].state_reg[13]/D
+                                                              3.299         
+BUS3_buf_reg[3]/C              BUS3_reg[3]/D                  3.299         
+latches/genblk1[100].state_reg[100]/C
+                               group1/DAC_reg_reg[7]/D        3.310         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[0]/R        3.330         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[2]/R        3.330         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[3]/R        3.330         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[7]/R        3.330         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[22].state_reg[22]/D
+                                                              3.384         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[19].state_reg[19]/D
+                                                              3.399         
+BUS3_buf_reg[1]/C              BUS3_reg[1]/D                  3.408         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[134].state_reg[134]/D
+                                                              3.409         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[1]/R        3.415         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[21].state_reg[21]/D
+                                                              3.445         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[4]/R        3.571         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[5]/R        3.571         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[6]/R        3.571         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[135].state_reg[135]/D
+                                                              3.579         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[133].state_reg[133]/D
+                                                              3.653         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[7]/D        3.687         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[4]/R        3.692         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[20].state_reg[20]/D
+                                                              3.698         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[131].state_reg[131]/D
+                                                              3.701         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[2]/D        3.707         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[3]/D        3.717         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[0]/D        3.722         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[132].state_reg[132]/D
+                                                              3.731         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[1]/D        3.753         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[24].state_reg[24]/D
+                                                              3.814         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[5]/D        3.836         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[4]/D        3.837         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[5]/R        3.867         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[6]/R        3.867         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[7]/R        3.867         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[0]/R        3.885         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[1]/R        3.885         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[2]/R        3.885         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[3]/R        3.885         
+latches/genblk1[100].state_reg[100]/C
+                               group4/DAC_reg_reg[6]/D        3.928         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[1]/R        3.938         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[3]/R        3.938         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[4]/R        3.938         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[5]/R        3.938         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[2]/R        3.962         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[6]/R        3.962         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[0]/R        3.964         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[7]/R        3.964         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[1]/D        3.971         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[5]/D        3.990         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[0]/D        3.990         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[4]/D        4.001         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[129].state_reg[129]/D
+                                                              4.035         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[23].state_reg[23]/D
+                                                              4.040         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[6]/D        4.058         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[3]/D        4.109         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[7]/D        4.110         
+latches/genblk1[100].state_reg[100]/C
+                               group3/DAC_reg_reg[2]/D        4.112         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[27].state_reg[27]/D
+                                                              4.151         
+genblk1[1].spad_pulse_sync_reg[1]/C
+                               latches/genblk1[130].state_reg[130]/D
+                                                              4.201         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[25].state_reg[25]/D
+                                                              4.227         
+genblk1[141].spad_pulse_sync_reg[141]/C
+                               latches/genblk1[26].state_reg[26]/D
+                                                              4.230         
+latches/genblk1[111].state_reg[111]/C
+                               group2/DAC_reg_reg[2]/D        4.235         
+clk_reg/Q                      clk_reg/D                      8.904         
+
+
+

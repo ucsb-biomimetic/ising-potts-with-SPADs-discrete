@@ -1,0 +1,1113 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
+| Date         : Mon May  8 10:32:53 2023
+| Host         : DESKTOP-ADU5I7J running 64-bit major release  (build 9200)
+| Command      : report_timing_summary -file ./vivado_outputs/post_place_timing_summary.rpt
+| Design       : ising_or_potts
+| Device       : 7k325t-ffg900
+| Speed File   : -2  PRODUCTION 1.12 2017-02-17
+--------------------------------------------------------------------------------------------
+
+Timing Summary Report
+
+------------------------------------------------------------------------------------------------
+| Timer Settings
+| --------------
+------------------------------------------------------------------------------------------------
+
+  Enable Multi Corner Analysis               :  Yes
+  Enable Pessimism Removal                   :  Yes
+  Pessimism Removal Resolution               :  Nearest Common Node
+  Enable Input Delay Default Clock           :  No
+  Enable Preset / Clear Arcs                 :  No
+  Disable Flight Delays                      :  No
+  Ignore I/O Paths                           :  No
+  Timing Early Launch at Borrowing Latches   :  No
+  Borrow Time for Max Delay Exceptions       :  Yes
+  Merge Timing Exceptions                    :  Yes
+
+  Corner  Analyze    Analyze    
+  Name    Max Paths  Min Paths  
+  ------  ---------  ---------  
+  Slow    Yes        Yes        
+  Fast    Yes        Yes        
+
+
+
+check_timing report
+
+Table of Contents
+-----------------
+1. checking no_clock (8267)
+2. checking constant_clock (0)
+3. checking pulse_width_clock (0)
+4. checking unconstrained_internal_endpoints (26298)
+5. checking no_input_delay (148)
+6. checking no_output_delay (53)
+7. checking multiple_clock (0)
+8. checking generated_clocks (0)
+9. checking loops (0)
+10. checking partial_input_delay (0)
+11. checking partial_output_delay (0)
+12. checking latch_loops (0)
+
+1. checking no_clock (8267)
+---------------------------
+ There are 2080 register/latch pins with no clock driven by root clock pin: cs2 (HIGH)
+
+ There are 68 register/latch pins with no clock driven by root clock pin: cs3 (HIGH)
+
+ There are 144 register/latch pins with no clock driven by root clock pin: cs4 (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[100] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[101] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[102] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[103] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[104] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[105] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[106] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[107] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[108] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[109] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[10] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[110] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[111] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[112] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[113] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[114] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[115] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[116] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[117] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[118] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[119] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[11] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[120] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[121] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[122] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[123] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[124] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[125] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[126] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[127] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[128] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[129] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[12] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[130] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[131] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[132] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[133] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[134] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[135] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[136] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[137] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[138] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[139] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[13] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[140] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[141] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[142] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[143] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[144] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[14] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[15] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[16] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[17] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[18] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[19] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[1] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[20] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[21] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[22] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[23] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[24] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[25] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[26] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[27] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[28] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[29] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[2] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[30] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[31] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[32] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[33] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[34] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[35] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[36] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[37] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[38] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[39] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[3] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[40] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[41] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[42] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[43] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[44] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[45] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[46] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[47] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[48] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[49] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[4] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[50] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[51] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[52] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[53] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[54] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[55] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[56] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[57] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[58] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[59] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[5] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[60] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[61] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[62] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[63] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[64] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[65] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[66] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[67] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[68] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[69] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[6] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[70] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[71] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[72] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[73] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[74] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[75] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[76] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[77] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[78] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[79] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[7] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[80] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[81] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[82] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[83] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[84] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[85] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[86] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[87] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[88] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[89] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[8] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[90] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[91] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[92] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[93] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[94] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[95] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[96] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[97] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[98] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[99] (HIGH)
+
+ There are 32 register/latch pins with no clock driven by root clock pin: pulse_in[9] (HIGH)
+
+ There are 1367 register/latch pins with no clock driven by root clock pin: sck (HIGH)
+
+
+2. checking constant_clock (0)
+------------------------------
+ There are 0 register/latch pins with constant_clock.
+
+
+3. checking pulse_width_clock (0)
+---------------------------------
+ There are 0 register/latch pins which need pulse_width check
+
+
+4. checking unconstrained_internal_endpoints (26298)
+----------------------------------------------------
+ There are 26298 pins that are not constrained for maximum delay. (HIGH)
+
+ There are 0 pins that are not constrained for maximum delay due to constant clock.
+
+
+5. checking no_input_delay (148)
+--------------------------------
+ There are 148 input ports with no input delay specified. (HIGH)
+
+ There are 0 input ports with no input delay but user has a false path constraint.
+
+
+6. checking no_output_delay (53)
+--------------------------------
+ There are 53 ports with no output delay specified. (HIGH)
+
+ There are 0 ports with no output delay but user has a false path constraint
+
+ There are 0 ports with no output delay but with a timing clock defined on it or propagating through it
+
+
+7. checking multiple_clock (0)
+------------------------------
+ There are 0 register/latch pins with multiple clocks.
+
+
+8. checking generated_clocks (0)
+--------------------------------
+ There are 0 generated clocks that are not connected to a clock source.
+
+
+9. checking loops (0)
+---------------------
+ There are 0 combinational loops in the design.
+
+
+10. checking partial_input_delay (0)
+------------------------------------
+ There are 0 input ports with partial input delay specified.
+
+
+11. checking partial_output_delay (0)
+-------------------------------------
+ There are 0 ports with partial output delay specified.
+
+
+12. checking latch_loops (0)
+----------------------------
+ There are 0 combinational latch loops in the design through latch input
+
+
+
+------------------------------------------------------------------------------------------------
+| Design Timing Summary
+| ---------------------
+------------------------------------------------------------------------------------------------
+
+    WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints     WPWS(ns)     TPWS(ns)  TPWS Failing Endpoints  TPWS Total Endpoints  
+    -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------     --------     --------  ----------------------  --------------------  
+      1.859        0.000                      0                20802       -3.319      -99.639                     46                20802        2.150        0.000                       0                 15174  
+
+
+Timing constraints are not met.
+
+
+------------------------------------------------------------------------------------------------
+| Clock Summary
+| -------------
+------------------------------------------------------------------------------------------------
+
+Clock   Waveform(ns)         Period(ns)      Frequency(MHz)
+-----   ------------         ----------      --------------
+Clk100  {0.000 5.000}        10.000          100.000         
+Clk200  {0.000 2.500}        5.000           200.000         
+Clk50   {0.000 10.000}       20.000          50.000          
+
+
+------------------------------------------------------------------------------------------------
+| Intra Clock Table
+| -----------------
+------------------------------------------------------------------------------------------------
+
+Clock             WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints     WPWS(ns)     TPWS(ns)  TPWS Failing Endpoints  TPWS Total Endpoints  
+-----             -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------     --------     --------  ----------------------  --------------------  
+Clk100                                                                                                                                                          4.650        0.000                       0                     1  
+Clk200                                                                                                                                                          2.150        0.000                       0                    36  
+Clk50               1.859        0.000                      0                20766       -0.052       -0.312                     10                20766        9.358        0.000                       0                 15137  
+
+
+------------------------------------------------------------------------------------------------
+| Inter Clock Table
+| -----------------
+------------------------------------------------------------------------------------------------
+
+From Clock    To Clock          WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints  
+----------    --------          -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------  
+Clk50         Clk100              9.840        0.000                      0                    1       -0.065       -0.065                      1                    1  
+Clk100        Clk200              4.499        0.000                      0                    1       -2.044       -2.044                      1                    1  
+Clk50         Clk200              5.729        0.000                      0                   34       -3.319      -97.219                     34                   34  
+
+
+------------------------------------------------------------------------------------------------
+| Other Path Groups Table
+| -----------------------
+------------------------------------------------------------------------------------------------
+
+Path Group    From Clock    To Clock          WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints  
+----------    ----------    --------          -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------  
+
+
+------------------------------------------------------------------------------------------------
+| Timing Details
+| --------------
+------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------
+From Clock:  Clk100
+  To Clock:  Clk100
+
+Setup :           NA  Failing Endpoints,  Worst Slack           NA  ,  Total Violation           NA
+Hold  :           NA  Failing Endpoints,  Worst Slack           NA  ,  Total Violation           NA
+PW    :            0  Failing Endpoints,  Worst Slack        4.650ns,  Total Violation        0.000ns
+---------------------------------------------------------------------------------------------------
+
+
+Pulse Width Checks
+--------------------------------------------------------------------------------------
+Clock Name:         Clk100
+Waveform(ns):       { 0.000 5.000 }
+Period(ns):         10.000
+Sources:            { clk100_reg/Q }
+
+Check Type        Corner  Lib Pin  Reference Pin  Required(ns)  Actual(ns)  Slack(ns)  Location      Pin
+Min Period        n/a     FDRE/C   n/a            0.700         10.000      9.300      SLICE_X1Y162  clk_reg/C
+Low Pulse Width   Slow    FDRE/C   n/a            0.350         5.000       4.650      SLICE_X1Y162  clk_reg/C
+High Pulse Width  Slow    FDRE/C   n/a            0.350         5.000       4.650      SLICE_X1Y162  clk_reg/C
+
+
+
+---------------------------------------------------------------------------------------------------
+From Clock:  Clk200
+  To Clock:  Clk200
+
+Setup :           NA  Failing Endpoints,  Worst Slack           NA  ,  Total Violation           NA
+Hold  :           NA  Failing Endpoints,  Worst Slack           NA  ,  Total Violation           NA
+PW    :            0  Failing Endpoints,  Worst Slack        2.150ns,  Total Violation        0.000ns
+---------------------------------------------------------------------------------------------------
+
+
+Pulse Width Checks
+--------------------------------------------------------------------------------------
+Clock Name:         Clk200
+Waveform(ns):       { 0.000 2.500 }
+Period(ns):         5.000
+Sources:            { sysclk_n }
+
+Check Type        Corner  Lib Pin  Reference Pin  Required(ns)  Actual(ns)  Slack(ns)  Location       Pin
+Min Period        n/a     BUFG/I   n/a            1.409         5.000       3.592      BUFGCTRL_X0Y4  clk200_BUFG_inst/I
+Low Pulse Width   Slow    FDRE/C   n/a            0.350         2.500       2.150      SLICE_X2Y162   clk100_reg/C
+High Pulse Width  Slow    FDRE/C   n/a            0.350         2.500       2.150      SLICE_X12Y186  A_reg[0]/C
+
+
+
+---------------------------------------------------------------------------------------------------
+From Clock:  Clk50
+  To Clock:  Clk50
+
+Setup :            0  Failing Endpoints,  Worst Slack        1.859ns,  Total Violation        0.000ns
+Hold  :           10  Failing Endpoints,  Worst Slack       -0.052ns,  Total Violation       -0.312ns
+PW    :            0  Failing Endpoints,  Worst Slack        9.358ns,  Total Violation        0.000ns
+---------------------------------------------------------------------------------------------------
+
+
+Max Delay Paths
+--------------------------------------------------------------------------------------
+Slack (MET) :             1.859ns  (required time - arrival time)
+  Source:                 genblk1[143].spad_pulse_sync_reg[143]/C
+                            (rising edge-triggered cell FDRE clocked by Clk50  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Destination:            latches/genblk1[1].state_reg[1]/D
+                            (rising edge-triggered cell FDRE clocked by Clk50  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Path Group:             Clk50
+  Path Type:              Setup (Max at Slow Process Corner)
+  Requirement:            20.000ns  (Clk50 rise@20.000ns - Clk50 rise@0.000ns)
+  Data Path Delay:        18.256ns  (logic 2.753ns (15.080%)  route 15.503ns (84.920%))
+  Logic Levels:           58  (LUT5=2 LUT6=56)
+  Clock Path Skew:        0.116ns (DCD - SCD + CPR)
+    Destination Clock Delay (DCD):    1.728ns = ( 21.728 - 20.000 ) 
+    Source Clock Delay      (SCD):    1.612ns
+    Clock Pessimism Removal (CPR):    0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk50 rise edge)      0.000     0.000 r  
+    SLICE_X1Y162         FDRE                         0.000     0.000 r  clk_reg/Q
+                         net (fo=15138, estimated)    1.612     1.612    clk
+    SLICE_X56Y166        FDRE                                         r  genblk1[143].spad_pulse_sync_reg[143]/C
+  -------------------------------------------------------------------    -------------------
+    SLICE_X56Y166        FDRE (Prop_fdre_C_Q)         0.259     1.871 f  genblk1[143].spad_pulse_sync_reg[143]/Q
+                         net (fo=6, estimated)        0.565     2.436    latches/genblk1[143].state_reg[143]_0
+    SLICE_X65Y164        LUT6 (Prop_lut6_I2_O)        0.043     2.479 f  latches/genblk1[139].state[139]_i_4/O
+                         net (fo=4, estimated)        0.312     2.791    latches/genblk1[139].state[139]_i_4_n_0
+    SLICE_X73Y164        LUT6 (Prop_lut6_I3_O)        0.043     2.834 r  latches/genblk1[133].state[133]_i_6/O
+                         net (fo=1, estimated)        0.268     3.102    latches/genblk1[133].state[133]_i_6_n_0
+    SLICE_X75Y164        LUT6 (Prop_lut6_I3_O)        0.043     3.145 f  latches/genblk1[133].state[133]_i_5/O
+                         net (fo=2, estimated)        0.199     3.344    latches/genblk1[133].state[133]_i_5_n_0
+    SLICE_X76Y164        LUT6 (Prop_lut6_I3_O)        0.043     3.387 r  latches/genblk1[128].state[128]_i_6/O
+                         net (fo=1, estimated)        0.182     3.569    latches/genblk1[128].state[128]_i_6_n_0
+    SLICE_X77Y164        LUT6 (Prop_lut6_I3_O)        0.043     3.612 f  latches/genblk1[128].state[128]_i_5/O
+                         net (fo=2, estimated)        0.277     3.889    latches/genblk1[128].state[128]_i_5_n_0
+    SLICE_X79Y164        LUT6 (Prop_lut6_I3_O)        0.043     3.932 r  latches/genblk1[123].state[123]_i_6/O
+                         net (fo=1, estimated)        0.373     4.305    latches/genblk1[123].state[123]_i_6_n_0
+    SLICE_X82Y166        LUT6 (Prop_lut6_I3_O)        0.043     4.348 f  latches/genblk1[123].state[123]_i_5/O
+                         net (fo=2, estimated)        0.429     4.777    latches/genblk1[123].state[123]_i_5_n_0
+    SLICE_X94Y166        LUT6 (Prop_lut6_I3_O)        0.043     4.820 r  latches/genblk1[118].state[118]_i_6/O
+                         net (fo=1, estimated)        0.206     5.026    latches/genblk1[118].state[118]_i_6_n_0
+    SLICE_X95Y166        LUT6 (Prop_lut6_I3_O)        0.043     5.069 f  latches/genblk1[118].state[118]_i_5/O
+                         net (fo=2, estimated)        0.196     5.265    latches/genblk1[118].state[118]_i_5_n_0
+    SLICE_X95Y167        LUT6 (Prop_lut6_I3_O)        0.043     5.308 r  latches/genblk1[113].state[113]_i_6/O
+                         net (fo=1, estimated)        0.207     5.515    latches/genblk1[113].state[113]_i_6_n_0
+    SLICE_X95Y166        LUT6 (Prop_lut6_I3_O)        0.043     5.558 f  latches/genblk1[113].state[113]_i_5/O
+                         net (fo=2, estimated)        0.308     5.866    latches/genblk1[113].state[113]_i_5_n_0
+    SLICE_X94Y165        LUT6 (Prop_lut6_I3_O)        0.043     5.909 r  latches/genblk1[108].state[108]_i_6/O
+                         net (fo=1, estimated)        0.267     6.176    latches/genblk1[108].state[108]_i_6_n_0
+    SLICE_X91Y164        LUT6 (Prop_lut6_I3_O)        0.043     6.219 f  latches/genblk1[108].state[108]_i_5/O
+                         net (fo=2, estimated)        0.193     6.412    latches/genblk1[108].state[108]_i_5_n_0
+    SLICE_X89Y164        LUT6 (Prop_lut6_I3_O)        0.043     6.455 r  latches/genblk1[103].state[103]_i_6/O
+                         net (fo=1, estimated)        0.267     6.722    latches/genblk1[103].state[103]_i_6_n_0
+    SLICE_X87Y164        LUT6 (Prop_lut6_I3_O)        0.043     6.765 f  latches/genblk1[103].state[103]_i_5/O
+                         net (fo=2, estimated)        0.189     6.954    latches/genblk1[103].state[103]_i_5_n_0
+    SLICE_X87Y163        LUT6 (Prop_lut6_I3_O)        0.043     6.997 r  latches/genblk1[98].state[98]_i_6/O
+                         net (fo=1, estimated)        0.274     7.271    latches/genblk1[98].state[98]_i_6_n_0
+    SLICE_X87Y162        LUT6 (Prop_lut6_I3_O)        0.043     7.314 f  latches/genblk1[98].state[98]_i_5/O
+                         net (fo=2, estimated)        0.287     7.601    latches/genblk1[98].state[98]_i_5_n_0
+    SLICE_X83Y161        LUT6 (Prop_lut6_I3_O)        0.043     7.644 r  latches/genblk1[93].state[93]_i_6/O
+                         net (fo=1, estimated)        0.209     7.853    latches/genblk1[93].state[93]_i_6_n_0
+    SLICE_X83Y160        LUT6 (Prop_lut6_I3_O)        0.043     7.896 f  latches/genblk1[93].state[93]_i_5/O
+                         net (fo=2, estimated)        0.298     8.194    latches/genblk1[93].state[93]_i_5_n_0
+    SLICE_X84Y158        LUT6 (Prop_lut6_I3_O)        0.043     8.237 r  latches/genblk1[88].state[88]_i_6/O
+                         net (fo=1, estimated)        0.188     8.425    latches/genblk1[88].state[88]_i_6_n_0
+    SLICE_X84Y157        LUT6 (Prop_lut6_I3_O)        0.043     8.468 f  latches/genblk1[88].state[88]_i_5/O
+                         net (fo=2, estimated)        0.191     8.659    latches/genblk1[88].state[88]_i_5_n_0
+    SLICE_X85Y157        LUT6 (Prop_lut6_I3_O)        0.043     8.702 r  latches/genblk1[83].state[83]_i_6/O
+                         net (fo=1, estimated)        0.291     8.993    latches/genblk1[83].state[83]_i_6_n_0
+    SLICE_X85Y157        LUT6 (Prop_lut6_I3_O)        0.043     9.036 f  latches/genblk1[83].state[83]_i_5/O
+                         net (fo=2, estimated)        0.220     9.256    latches/genblk1[83].state[83]_i_5_n_0
+    SLICE_X85Y156        LUT6 (Prop_lut6_I3_O)        0.043     9.299 r  latches/genblk1[78].state[78]_i_6/O
+                         net (fo=1, estimated)        0.215     9.514    latches/genblk1[78].state[78]_i_6_n_0
+    SLICE_X84Y156        LUT6 (Prop_lut6_I3_O)        0.043     9.557 f  latches/genblk1[78].state[78]_i_5/O
+                         net (fo=2, estimated)        0.280     9.837    latches/genblk1[78].state[78]_i_5_n_0
+    SLICE_X81Y156        LUT6 (Prop_lut6_I3_O)        0.043     9.880 r  latches/genblk1[73].state[73]_i_6/O
+                         net (fo=1, estimated)        0.213    10.093    latches/genblk1[73].state[73]_i_6_n_0
+    SLICE_X80Y156        LUT6 (Prop_lut6_I3_O)        0.043    10.136 f  latches/genblk1[73].state[73]_i_5/O
+                         net (fo=2, estimated)        0.286    10.422    latches/genblk1[73].state[73]_i_5_n_0
+    SLICE_X78Y156        LUT6 (Prop_lut6_I3_O)        0.043    10.465 r  latches/genblk1[68].state[68]_i_6/O
+                         net (fo=1, estimated)        0.307    10.772    latches/genblk1[68].state[68]_i_6_n_0
+    SLICE_X76Y157        LUT6 (Prop_lut6_I3_O)        0.043    10.815 f  latches/genblk1[68].state[68]_i_5/O
+                         net (fo=2, estimated)        0.291    11.106    latches/genblk1[68].state[68]_i_5_n_0
+    SLICE_X74Y159        LUT6 (Prop_lut6_I3_O)        0.043    11.149 r  latches/genblk1[63].state[63]_i_6/O
+                         net (fo=1, estimated)        0.298    11.447    latches/genblk1[63].state[63]_i_6_n_0
+    SLICE_X74Y159        LUT6 (Prop_lut6_I3_O)        0.043    11.490 f  latches/genblk1[63].state[63]_i_5/O
+                         net (fo=2, estimated)        0.295    11.785    latches/genblk1[63].state[63]_i_5_n_0
+    SLICE_X70Y158        LUT6 (Prop_lut6_I3_O)        0.043    11.828 r  latches/genblk1[58].state[58]_i_6/O
+                         net (fo=1, estimated)        0.273    12.101    latches/genblk1[58].state[58]_i_6_n_0
+    SLICE_X67Y158        LUT6 (Prop_lut6_I3_O)        0.043    12.144 f  latches/genblk1[58].state[58]_i_5/O
+                         net (fo=2, estimated)        0.376    12.520    latches/genblk1[58].state[58]_i_5_n_0
+    SLICE_X63Y160        LUT6 (Prop_lut6_I3_O)        0.043    12.563 r  latches/genblk1[53].state[53]_i_6/O
+                         net (fo=1, estimated)        0.272    12.835    latches/genblk1[53].state[53]_i_6_n_0
+    SLICE_X59Y160        LUT6 (Prop_lut6_I3_O)        0.043    12.878 f  latches/genblk1[53].state[53]_i_5/O
+                         net (fo=2, estimated)        0.289    13.167    latches/genblk1[53].state[53]_i_5_n_0
+    SLICE_X59Y162        LUT6 (Prop_lut6_I3_O)        0.043    13.210 r  latches/genblk1[48].state[48]_i_6/O
+                         net (fo=1, estimated)        0.273    13.483    latches/genblk1[48].state[48]_i_6_n_0
+    SLICE_X55Y162        LUT6 (Prop_lut6_I3_O)        0.043    13.526 f  latches/genblk1[48].state[48]_i_5/O
+                         net (fo=2, estimated)        0.289    13.815    latches/genblk1[48].state[48]_i_5_n_0
+    SLICE_X55Y164        LUT6 (Prop_lut6_I3_O)        0.043    13.858 r  latches/genblk1[43].state[43]_i_6/O
+                         net (fo=1, estimated)        0.296    14.154    latches/genblk1[43].state[43]_i_6_n_0
+    SLICE_X54Y164        LUT6 (Prop_lut6_I3_O)        0.043    14.197 f  latches/genblk1[43].state[43]_i_5/O
+                         net (fo=2, estimated)        0.309    14.506    latches/genblk1[43].state[43]_i_5_n_0
+    SLICE_X54Y164        LUT6 (Prop_lut6_I3_O)        0.043    14.549 r  latches/genblk1[38].state[38]_i_6/O
+                         net (fo=1, estimated)        0.188    14.737    latches/genblk1[38].state[38]_i_6_n_0
+    SLICE_X56Y164        LUT6 (Prop_lut6_I3_O)        0.043    14.780 f  latches/genblk1[38].state[38]_i_5/O
+                         net (fo=2, estimated)        0.309    15.089    latches/genblk1[38].state[38]_i_5_n_0
+    SLICE_X56Y164        LUT6 (Prop_lut6_I3_O)        0.043    15.132 r  latches/genblk1[33].state[33]_i_6/O
+                         net (fo=1, estimated)        0.192    15.324    latches/genblk1[33].state[33]_i_6_n_0
+    SLICE_X56Y163        LUT6 (Prop_lut6_I3_O)        0.043    15.367 f  latches/genblk1[33].state[33]_i_5/O
+                         net (fo=2, estimated)        0.307    15.674    latches/genblk1[33].state[33]_i_5_n_0
+    SLICE_X54Y163        LUT6 (Prop_lut6_I3_O)        0.043    15.717 r  latches/genblk1[28].state[28]_i_6/O
+                         net (fo=1, estimated)        0.279    15.996    latches/genblk1[28].state[28]_i_6_n_0
+    SLICE_X54Y160        LUT6 (Prop_lut6_I3_O)        0.043    16.039 f  latches/genblk1[28].state[28]_i_5/O
+                         net (fo=2, estimated)        0.309    16.348    latches/genblk1[28].state[28]_i_5_n_0
+    SLICE_X54Y160        LUT6 (Prop_lut6_I3_O)        0.043    16.391 r  latches/genblk1[23].state[23]_i_6/O
+                         net (fo=1, estimated)        0.269    16.660    latches/genblk1[23].state[23]_i_6_n_0
+    SLICE_X54Y158        LUT6 (Prop_lut6_I3_O)        0.043    16.703 f  latches/genblk1[23].state[23]_i_5/O
+                         net (fo=2, estimated)        0.207    16.910    latches/genblk1[23].state[23]_i_5_n_0
+    SLICE_X56Y157        LUT6 (Prop_lut6_I3_O)        0.043    16.953 r  latches/genblk1[18].state[18]_i_6/O
+                         net (fo=1, estimated)        0.278    17.231    latches/genblk1[18].state[18]_i_6_n_0
+    SLICE_X59Y157        LUT6 (Prop_lut6_I3_O)        0.043    17.274 f  latches/genblk1[18].state[18]_i_5/O
+                         net (fo=2, estimated)        0.281    17.555    latches/genblk1[18].state[18]_i_5_n_0
+    SLICE_X62Y156        LUT6 (Prop_lut6_I3_O)        0.043    17.598 r  latches/genblk1[13].state[13]_i_6/O
+                         net (fo=1, estimated)        0.298    17.896    latches/genblk1[13].state[13]_i_6_n_0
+    SLICE_X62Y156        LUT6 (Prop_lut6_I3_O)        0.043    17.939 f  latches/genblk1[13].state[13]_i_5/O
+                         net (fo=2, estimated)        0.370    18.309    latches/genblk1[13].state[13]_i_5_n_0
+    SLICE_X68Y155        LUT6 (Prop_lut6_I3_O)        0.043    18.352 r  latches/genblk1[5].state[5]_i_7/O
+                         net (fo=1, estimated)        0.102    18.454    latches/genblk1[5].state[5]_i_7_n_0
+    SLICE_X68Y155        LUT6 (Prop_lut6_I3_O)        0.043    18.497 f  latches/genblk1[5].state[5]_i_6/O
+                         net (fo=2, estimated)        0.287    18.784    latches/genblk1[5].state[5]_i_6_n_0
+    SLICE_X72Y155        LUT6 (Prop_lut6_I3_O)        0.043    18.827 r  latches/genblk1[0].state[0]_i_5/O
+                         net (fo=1, estimated)        0.268    19.095    latches/genblk1[0].state[0]_i_5_n_0
+    SLICE_X72Y153        LUT6 (Prop_lut6_I3_O)        0.043    19.138 f  latches/genblk1[0].state[0]_i_4/O
+                         net (fo=1, estimated)        0.105    19.243    latches/genblk1[0].state[0]_i_4_n_0
+    SLICE_X72Y153        LUT5 (Prop_lut5_I2_O)        0.043    19.286 f  latches/genblk1[0].state[0]_i_3/O
+                         net (fo=2, estimated)        0.222    19.508    latches/genblk1[0].state[0]_i_3_n_0
+    SLICE_X72Y153        LUT5 (Prop_lut5_I2_O)        0.043    19.551 f  latches/genblk1[0].state[0]_i_2/O
+                         net (fo=2, estimated)        0.274    19.825    latches/genblk1[0].state[0]_i_2_n_0
+    SLICE_X71Y154        LUT6 (Prop_lut6_I1_O)        0.043    19.868 r  latches/genblk1[1].state[1]_i_1/O
+                         net (fo=1, routed)           0.000    19.868    latches/genblk1[1].state[1]_i_1_n_0
+    SLICE_X71Y154        FDRE                                         r  latches/genblk1[1].state_reg[1]/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk50 rise edge)     20.000    20.000 r  
+    SLICE_X1Y162         FDRE                         0.000    20.000 r  clk_reg/Q
+                         net (fo=15138, estimated)    1.728    21.728    latches/clk
+    SLICE_X71Y154        FDRE                                         r  latches/genblk1[1].state_reg[1]/C
+                         clock pessimism              0.000    21.728    
+                         clock uncertainty           -0.035    21.693    
+    SLICE_X71Y154        FDRE (Setup_fdre_C_D)        0.034    21.727    latches/genblk1[1].state_reg[1]
+  -------------------------------------------------------------------
+                         required time                         21.727    
+                         arrival time                         -19.868    
+  -------------------------------------------------------------------
+                         slack                                  1.859    
+
+
+
+
+
+Min Delay Paths
+--------------------------------------------------------------------------------------
+Slack (VIOLATED) :        -0.052ns  (arrival time - required time)
+  Source:                 group1/energy_reg_reg[1]/C
+                            (rising edge-triggered cell FDRE clocked by Clk50  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Destination:            energy_store_reg/DIADI[1]
+                            (rising edge-triggered cell RAMB18E1 clocked by Clk50  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Path Group:             Clk50
+  Path Type:              Hold (Min at Slow Process Corner)
+  Requirement:            0.000ns  (Clk50 rise@0.000ns - Clk50 rise@0.000ns)
+  Data Path Delay:        0.664ns  (logic 0.178ns (26.791%)  route 0.486ns (73.209%))
+  Logic Levels:           0  
+  Clock Path Skew:        0.434ns (DCD - SCD - CPR)
+    Destination Clock Delay (DCD):    1.903ns
+    Source Clock Delay      (SCD):    1.469ns
+    Clock Pessimism Removal (CPR):    -0.000ns
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk50 rise edge)      0.000     0.000 r  
+    SLICE_X1Y162         FDRE                         0.000     0.000 r  clk_reg/Q
+                         net (fo=15138, estimated)    1.469     1.469    group1/clk
+    SLICE_X39Y182        FDRE                                         r  group1/energy_reg_reg[1]/C
+  -------------------------------------------------------------------    -------------------
+    SLICE_X39Y182        FDRE (Prop_fdre_C_Q)         0.178     1.647 r  group1/energy_reg_reg[1]/Q
+                         net (fo=3, estimated)        0.486     2.133    group1energy[1]
+    RAMB18_X2Y76         RAMB18E1                                     r  energy_store_reg/DIADI[1]
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk50 rise edge)      0.000     0.000 r  
+    SLICE_X1Y162         FDRE                         0.000     0.000 r  clk_reg/Q
+                         net (fo=15138, estimated)    1.903     1.903    clk
+    RAMB18_X2Y76         RAMB18E1                                     r  energy_store_reg/CLKARDCLK
+                         clock pessimism              0.000     1.903    
+    RAMB18_X2Y76         RAMB18E1 (Hold_ramb18e1_CLKARDCLK_DIADI[1])
+                                                      0.282     2.185    energy_store_reg
+  -------------------------------------------------------------------
+                         required time                         -2.185    
+                         arrival time                           2.133    
+  -------------------------------------------------------------------
+                         slack                                 -0.052    
+
+
+
+
+
+Pulse Width Checks
+--------------------------------------------------------------------------------------
+Clock Name:         Clk50
+Waveform(ns):       { 0.000 10.000 }
+Period(ns):         20.000
+Sources:            { clk_reg/Q }
+
+Check Type        Corner  Lib Pin             Reference Pin  Required(ns)  Actual(ns)  Slack(ns)  Location       Pin
+Min Period        n/a     RAMB36E1/CLKARDCLK  n/a            2.095         20.000      17.905     RAMB36_X2Y31   group1/bm_weights_reg_4/CLKARDCLK
+Low Pulse Width   Slow    SRL16E/CLK          n/a            0.642         10.000      9.358      SLICE_X14Y180  A1_prog_reg[24]_srl5___A1_prog_reg_r_10/CLK
+High Pulse Width  Slow    SRL16E/CLK          n/a            0.642         10.000      9.358      SLICE_X110Y94  group1/retimer1_reg[920]_srl5/CLK
+
+
+
+---------------------------------------------------------------------------------------------------
+From Clock:  Clk50
+  To Clock:  Clk100
+
+Setup :            0  Failing Endpoints,  Worst Slack        9.840ns,  Total Violation        0.000ns
+Hold  :            1  Failing Endpoint ,  Worst Slack       -0.065ns,  Total Violation       -0.065ns
+---------------------------------------------------------------------------------------------------
+
+
+Max Delay Paths
+--------------------------------------------------------------------------------------
+Slack (MET) :             9.840ns  (required time - arrival time)
+  Source:                 clk_reg/Q
+                            (clock source 'Clk50'  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Destination:            clk_reg/D
+                            (rising edge-triggered cell FDRE clocked by Clk100  {rise@0.000ns fall@5.000ns period=10.000ns})
+  Path Group:             Clk100
+  Path Type:              Setup (Max at Slow Process Corner)
+  Requirement:            10.000ns  (Clk100 rise@20.000ns - Clk50 fall@10.000ns)
+  Data Path Delay:        0.367ns  (logic 0.043ns (11.717%)  route 0.324ns (88.283%))
+  Logic Levels:           1  (LUT1=1)
+  Clock Path Skew:        0.208ns (DCD - SCD + CPR)
+    Destination Clock Delay (DCD):    0.208ns = ( 20.208 - 20.000 ) 
+    Source Clock Delay      (SCD):    0.000ns = ( 10.000 - 10.000 ) 
+    Clock Pessimism Removal (CPR):    0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+  Clock Domain Crossing:  Inter clock paths are considered valid unless explicitly excluded by timing constraints such as set_clock_groups or set_false_path.
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk50 fall edge)     10.000    10.000 f  
+    SLICE_X1Y162         FDRE                         0.000    10.000 f  clk_reg/Q
+                         net (fo=15138, estimated)    0.324    10.324    clk
+    SLICE_X1Y162         LUT1 (Prop_lut1_I0_O)        0.043    10.367 r  clk_i_1/O
+                         net (fo=1, routed)           0.000    10.367    clk_i_1_n_0
+    SLICE_X1Y162         FDRE                                         r  clk_reg/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk100 rise edge)    20.000    20.000 r  
+    SLICE_X2Y162         FDRE                         0.000    20.000 r  clk100_reg/Q
+                         net (fo=2, estimated)        0.208    20.208    clk100
+    SLICE_X1Y162         FDRE                                         r  clk_reg/C
+                         clock pessimism              0.000    20.208    
+                         clock uncertainty           -0.035    20.173    
+    SLICE_X1Y162         FDRE (Setup_fdre_C_D)        0.034    20.207    clk_reg
+  -------------------------------------------------------------------
+                         required time                         20.207    
+                         arrival time                         -10.367    
+  -------------------------------------------------------------------
+                         slack                                  9.840    
+
+
+
+
+
+Min Delay Paths
+--------------------------------------------------------------------------------------
+Slack (VIOLATED) :        -0.065ns  (arrival time - required time)
+  Source:                 clk_reg/Q
+                            (clock source 'Clk50'  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Destination:            clk_reg/D
+                            (rising edge-triggered cell FDRE clocked by Clk100  {rise@0.000ns fall@5.000ns period=10.000ns})
+  Path Group:             Clk100
+  Path Type:              Hold (Min at Slow Process Corner)
+  Requirement:            0.000ns  (Clk100 rise@10.000ns - Clk50 fall@10.000ns)
+  Data Path Delay:        0.344ns  (logic 0.036ns (10.471%)  route 0.308ns (89.529%))
+  Logic Levels:           1  (LUT1=1)
+  Clock Path Skew:        0.219ns (DCD - SCD - CPR)
+    Destination Clock Delay (DCD):    0.219ns = ( 10.219 - 10.000 ) 
+    Source Clock Delay      (SCD):    0.000ns = ( 10.000 - 10.000 ) 
+    Clock Pessimism Removal (CPR):    -0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+  Clock Domain Crossing:  Inter clock paths are considered valid unless explicitly excluded by timing constraints such as set_clock_groups or set_false_path.
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk50 fall edge)     10.000    10.000 f  
+    SLICE_X1Y162         FDRE                         0.000    10.000 f  clk_reg/Q
+                         net (fo=15138, estimated)    0.308    10.308    clk
+    SLICE_X1Y162         LUT1 (Prop_lut1_I0_O)        0.036    10.344 r  clk_i_1/O
+                         net (fo=1, routed)           0.000    10.344    clk_i_1_n_0
+    SLICE_X1Y162         FDRE                                         r  clk_reg/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk100 rise edge)    10.000    10.000 r  
+    SLICE_X2Y162         FDRE                         0.000    10.000 r  clk100_reg/Q
+                         net (fo=2, estimated)        0.219    10.219    clk100
+    SLICE_X1Y162         FDRE                                         r  clk_reg/C
+                         clock pessimism              0.000    10.219    
+                         clock uncertainty            0.035    10.254    
+    SLICE_X1Y162         FDRE (Hold_fdre_C_D)         0.154    10.408    clk_reg
+  -------------------------------------------------------------------
+                         required time                        -10.408    
+                         arrival time                          10.344    
+  -------------------------------------------------------------------
+                         slack                                 -0.065    
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+From Clock:  Clk100
+  To Clock:  Clk200
+
+Setup :            0  Failing Endpoints,  Worst Slack        4.499ns,  Total Violation        0.000ns
+Hold  :            1  Failing Endpoint ,  Worst Slack       -2.044ns,  Total Violation       -2.044ns
+---------------------------------------------------------------------------------------------------
+
+
+Max Delay Paths
+--------------------------------------------------------------------------------------
+Slack (MET) :             4.499ns  (required time - arrival time)
+  Source:                 clk100_reg/Q
+                            (clock source 'Clk100'  {rise@0.000ns fall@5.000ns period=10.000ns})
+  Destination:            clk100_reg/D
+                            (rising edge-triggered cell FDRE clocked by Clk200'  {rise@0.000ns fall@2.500ns period=5.000ns})
+  Path Group:             Clk200
+  Path Type:              Setup (Max at Fast Process Corner)
+  Requirement:            2.500ns  (Clk200 fall@7.500ns - Clk100 fall@5.000ns)
+  Data Path Delay:        0.197ns  (logic 0.035ns (17.736%)  route 0.162ns (82.264%))
+  Logic Levels:           1  (LUT1=1)
+  Clock Path Skew:        2.178ns (DCD - SCD + CPR)
+    Destination Clock Delay (DCD):    2.178ns = ( 9.678 - 7.500 ) 
+    Source Clock Delay      (SCD):    0.000ns = ( 5.000 - 5.000 ) 
+    Clock Pessimism Removal (CPR):    0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+  Clock Domain Crossing:  Inter clock paths are considered valid unless explicitly excluded by timing constraints such as set_clock_groups or set_false_path.
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk100 fall edge)     5.000     5.000 f  
+    SLICE_X2Y162         FDRE                         0.000     5.000 f  clk100_reg/Q
+                         net (fo=2, estimated)        0.162     5.162    clk100
+    SLICE_X2Y162         LUT1 (Prop_lut1_I0_O)        0.035     5.197 r  clk100_i_1/O
+                         net (fo=1, routed)           0.000     5.197    clk100_i_1_n_0
+    SLICE_X2Y162         FDRE                                         r  clk100_reg/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk200 fall edge)     7.500     7.500 f  
+    AD11                                              0.000     7.500 f  sysclk_n (IN)
+                         net (fo=0)                   0.000     7.500    sysclk_n
+    AD12                 IBUFDS (Prop_ibufds_IB_O)    0.388     7.888 r  buf1/O
+                         net (fo=1, estimated)        1.140     9.029    clk200
+    BUFGCTRL_X0Y4        BUFG (Prop_bufg_I_O)         0.026     9.055 r  clk200_BUFG_inst/O
+                         net (fo=35, estimated)       0.623     9.678    clk200_BUFG
+    SLICE_X2Y162         FDRE                                         r  clk100_reg/C
+                         clock pessimism              0.000     9.678    
+                         clock uncertainty           -0.035     9.642    
+    SLICE_X2Y162         FDRE (Setup_fdre_C_D)        0.054     9.696    clk100_reg
+  -------------------------------------------------------------------
+                         required time                          9.696    
+                         arrival time                          -5.197    
+  -------------------------------------------------------------------
+                         slack                                  4.499    
+
+
+
+
+
+Min Delay Paths
+--------------------------------------------------------------------------------------
+Slack (VIOLATED) :        -2.044ns  (arrival time - required time)
+  Source:                 clk100_reg/Q
+                            (clock source 'Clk100'  {rise@0.000ns fall@5.000ns period=10.000ns})
+  Destination:            clk100_reg/D
+                            (rising edge-triggered cell FDRE clocked by Clk200'  {rise@0.000ns fall@2.500ns period=5.000ns})
+  Path Group:             Clk200
+  Path Type:              Hold (Min at Slow Process Corner)
+  Requirement:            -2.500ns  (Clk200 fall@2.500ns - Clk100 fall@5.000ns)
+  Data Path Delay:        0.331ns  (logic 0.036ns (10.861%)  route 0.295ns (89.139%))
+  Logic Levels:           1  (LUT1=1)
+  Clock Path Skew:        4.652ns (DCD - SCD - CPR)
+    Destination Clock Delay (DCD):    4.652ns = ( 7.152 - 2.500 ) 
+    Source Clock Delay      (SCD):    0.000ns = ( 5.000 - 5.000 ) 
+    Clock Pessimism Removal (CPR):    -0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+  Clock Domain Crossing:  Inter clock paths are considered valid unless explicitly excluded by timing constraints such as set_clock_groups or set_false_path.
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk100 fall edge)     5.000     5.000 f  
+    SLICE_X2Y162         FDRE                         0.000     5.000 f  clk100_reg/Q
+                         net (fo=2, estimated)        0.295     5.295    clk100
+    SLICE_X2Y162         LUT1 (Prop_lut1_I0_O)        0.036     5.331 r  clk100_i_1/O
+                         net (fo=1, routed)           0.000     5.331    clk100_i_1_n_0
+    SLICE_X2Y162         FDRE                                         r  clk100_reg/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk200 fall edge)     2.500     2.500 f  
+    AD11                                              0.000     2.500 f  sysclk_n (IN)
+                         net (fo=0)                   0.000     2.500    sysclk_n
+    AD12                 IBUFDS (Prop_ibufds_IB_O)    0.906     3.406 r  buf1/O
+                         net (fo=1, estimated)        2.299     5.705    clk200
+    BUFGCTRL_X0Y4        BUFG (Prop_bufg_I_O)         0.093     5.798 r  clk200_BUFG_inst/O
+                         net (fo=35, estimated)       1.354     7.152    clk200_BUFG
+    SLICE_X2Y162         FDRE                                         r  clk100_reg/C
+                         clock pessimism              0.000     7.152    
+                         clock uncertainty            0.035     7.187    
+    SLICE_X2Y162         FDRE (Hold_fdre_C_D)         0.188     7.375    clk100_reg
+  -------------------------------------------------------------------
+                         required time                         -7.375    
+                         arrival time                           5.331    
+  -------------------------------------------------------------------
+                         slack                                 -2.044    
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+From Clock:  Clk50
+  To Clock:  Clk200
+
+Setup :            0  Failing Endpoints,  Worst Slack        5.729ns,  Total Violation        0.000ns
+Hold  :           34  Failing Endpoints,  Worst Slack       -3.319ns,  Total Violation      -97.219ns
+---------------------------------------------------------------------------------------------------
+
+
+Max Delay Paths
+--------------------------------------------------------------------------------------
+Slack (MET) :             5.729ns  (required time - arrival time)
+  Source:                 BUS3_buf_reg[3]/C
+                            (rising edge-triggered cell FDRE clocked by Clk50  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Destination:            BUS3_reg[3]/D
+                            (falling edge-triggered cell FDRE clocked by Clk200'  {rise@0.000ns fall@2.500ns period=5.000ns})
+  Path Group:             Clk200
+  Path Type:              Setup (Max at Fast Process Corner)
+  Requirement:            5.000ns  (Clk200 rise@5.000ns - Clk50 rise@0.000ns)
+  Data Path Delay:        0.540ns  (logic 0.124ns (22.984%)  route 0.416ns (77.016%))
+  Logic Levels:           0  
+  Clock Path Skew:        1.308ns (DCD - SCD + CPR)
+    Destination Clock Delay (DCD):    2.136ns = ( 7.136 - 5.000 ) 
+    Source Clock Delay      (SCD):    0.828ns
+    Clock Pessimism Removal (CPR):    0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+  Clock Domain Crossing:  Inter clock paths are considered valid unless explicitly excluded by timing constraints such as set_clock_groups or set_false_path.
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk50 rise edge)      0.000     0.000 r  
+    SLICE_X1Y162         FDRE                         0.000     0.000 r  clk_reg/Q
+                         net (fo=15138, estimated)    0.828     0.828    clk
+    SLICE_X37Y185        FDRE                                         r  BUS3_buf_reg[3]/C
+  -------------------------------------------------------------------    -------------------
+    SLICE_X37Y185        FDRE (Prop_fdre_C_Q)         0.124     0.952 r  BUS3_buf_reg[3]/Q
+                         net (fo=1, estimated)        0.416     1.367    BUS3_buf[3]
+    SLICE_X22Y171        FDRE                                         r  BUS3_reg[3]/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk200 rise edge)     5.000     5.000 r  
+    AD11                                              0.000     5.000 r  sysclk_n (IN)
+                         net (fo=0)                   0.000     5.000    sysclk_n
+    AD12                 IBUFDS (Prop_ibufds_IB_O)    0.388     5.388 f  buf1/O
+                         net (fo=1, estimated)        1.140     6.529    clk200
+    BUFGCTRL_X0Y4        BUFG (Prop_bufg_I_O)         0.026     6.555 f  clk200_BUFG_inst/O
+                         net (fo=35, estimated)       0.581     7.136    clk200_BUFG
+    SLICE_X22Y171        FDRE                                         r  BUS3_reg[3]/C  (IS_INVERTED)
+                         clock pessimism              0.000     7.136    
+                         clock uncertainty           -0.035     7.100    
+    SLICE_X22Y171        FDRE (Setup_fdre_C_D)       -0.004     7.096    BUS3_reg[3]
+  -------------------------------------------------------------------
+                         required time                          7.096    
+                         arrival time                          -1.367    
+  -------------------------------------------------------------------
+                         slack                                  5.729    
+
+
+
+
+
+Min Delay Paths
+--------------------------------------------------------------------------------------
+Slack (VIOLATED) :        -3.319ns  (arrival time - required time)
+  Source:                 A_buf_reg[0]/C
+                            (rising edge-triggered cell FDRE clocked by Clk50  {rise@0.000ns fall@10.000ns period=20.000ns})
+  Destination:            A_reg[0]/D
+                            (falling edge-triggered cell FDRE clocked by Clk200'  {rise@0.000ns fall@2.500ns period=5.000ns})
+  Path Group:             Clk200
+  Path Type:              Hold (Min at Slow Process Corner)
+  Requirement:            0.000ns  (Clk200 rise@0.000ns - Clk50 rise@0.000ns)
+  Data Path Delay:        0.401ns  (logic 0.206ns (51.404%)  route 0.195ns (48.596%))
+  Logic Levels:           0  
+  Clock Path Skew:        3.546ns (DCD - SCD - CPR)
+    Destination Clock Delay (DCD):    4.595ns
+    Source Clock Delay      (SCD):    1.049ns
+    Clock Pessimism Removal (CPR):    -0.000ns
+  Clock Uncertainty:      0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter     (TSJ):    0.071ns
+    Total Input Jitter      (TIJ):    0.000ns
+    Discrete Jitter          (DJ):    0.000ns
+    Phase Error              (PE):    0.000ns
+  Clock Domain Crossing:  Inter clock paths are considered valid unless explicitly excluded by timing constraints such as set_clock_groups or set_false_path.
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+                         (clock Clk50 rise edge)      0.000     0.000 r  
+    SLICE_X1Y162         FDRE                         0.000     0.000 r  clk_reg/Q
+                         net (fo=15138, estimated)    1.049     1.049    clk
+    SLICE_X12Y185        FDRE                                         r  A_buf_reg[0]/C
+  -------------------------------------------------------------------    -------------------
+    SLICE_X12Y185        FDRE (Prop_fdre_C_Q)         0.206     1.255 r  A_buf_reg[0]/Q
+                         net (fo=2, estimated)        0.195     1.450    A_buf_reg_n_0_[0]
+    SLICE_X12Y186        FDRE                                         r  A_reg[0]/D
+  -------------------------------------------------------------------    -------------------
+
+                         (clock Clk200 rise edge)     0.000     0.000 r  
+    AD11                                              0.000     0.000 r  sysclk_n (IN)
+                         net (fo=0)                   0.000     0.000    sysclk_n
+    AD12                 IBUFDS (Prop_ibufds_IB_O)    0.906     0.906 f  buf1/O
+                         net (fo=1, estimated)        2.299     3.205    clk200
+    BUFGCTRL_X0Y4        BUFG (Prop_bufg_I_O)         0.093     3.298 f  clk200_BUFG_inst/O
+                         net (fo=35, estimated)       1.297     4.595    clk200_BUFG
+    SLICE_X12Y186        FDRE                                         r  A_reg[0]/C  (IS_INVERTED)
+                         clock pessimism              0.000     4.595    
+                         clock uncertainty            0.035     4.630    
+    SLICE_X12Y186        FDRE (Hold_fdre_C_D)         0.139     4.769    A_reg[0]
+  -------------------------------------------------------------------
+                         required time                         -4.769    
+                         arrival time                           1.450    
+  -------------------------------------------------------------------
+                         slack                                 -3.319    
+
+
+
+
+
